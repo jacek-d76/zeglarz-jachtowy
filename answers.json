@@ -373,5 +373,51 @@
   },
   "120": {
     "correct": "a"
+  },
+  "121": {
+    "correct": "c"
+  },
+  "122": {
+    "correct": "a"
+  },
+  "123": {
+    "correct": "a"
+  },
+  "124": {
+    "correct": "a"
+  },
+  "125": {
+    "correct": "c"
+  },
+  "126": {
+    "correct": "a"
+  },
+  "127": {
+    "correct": "a"
+  },
+  "128": {
+    "correct": "c"
+  },
+  "129": {
+    "correct": "b"
+  },
+  "130": {
+    "correct": "b"
+  },
+  "131": {
+    "correct": "b"
+  },
+  "132": {
+    "correct": "b"
+  },
+  "133": {
+    "correct": "a",
+    "explanation": "Fał płetwy sterowej – służy do jej opuszczania (w dół).\nKontrafał płetwy sterowej – służy do jej podnoszenia (w górę).\nSzoty – to liny służące wyłącznie do ustawiania żagli względem wiatru (np. szoty grota, szoty foku). Nie mają one żadnego zastosowania przy płetwie sterowej."
+  },
+  "134": {
+    "correct": "b"
+  },
+  "135": {
+    "correct": "a"
   }
 }
