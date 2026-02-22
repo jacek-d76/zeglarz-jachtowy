@@ -1,5 +1,26 @@
 {
   "1": {
     "correct": "b"
+  },
+  "2": {
+    "correct": "a",
+    "explanation": "Kecz to dwumasztowy żaglowiec z ożaglowaniem skośnym, charakteryzujący się tym, że przedni maszt (grotmaszt) jest znacznie wyższy od tylnego (bezanmasztu). Tylny maszt jest umieszczony przed kołem sterowym (przed trzonem sterowym), co odróżnia go od jola. Są to jednostki stabilne, łatwe w obsłudze i popularne w turystyce."
+  },
+  "3": {
+    "correct": "c"
+  },
+  "4": {
+    "correct": "b",
+    "explanation": "Holenderskie miecze jachtowe (miecze boczne) to charakterystyczne dla tradycyjnych, płaskodennych barek żaglowych i jachtów (np. typu Lemstergaak) płetwy mieczowe umieszczane po obu stronach kadłuba. Zamiast centralnego miecza, te boczne płetwy poprawiają sterowność i zmniejszają znoszenie boczne na płytkich wodach, takich jak Morze Wattowe, umożliwiając żeglugę na osuchach."
+  },
+  "5": {
+    "correct": "a"
+  },
+  "6": {
+    "correct": "c"
+  },
+  "7": {
+    "correct": "b",
+    "image": "q7_jumpsztag.jpg"
   }
 }
