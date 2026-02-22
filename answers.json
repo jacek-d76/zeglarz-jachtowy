@@ -1,0 +1,482 @@
+{
+  "1": {
+    "correct": "b"
+  },
+  "2": {
+    "correct": "a",
+    "explanation": "Kecz to dwumasztowy ÃÂ¼aglowiec z oÃÂ¼aglowaniem skoÃÂnym, charakteryzujÃÂcy siÃÂ tym, ÃÂ¼e przedni maszt (grotmaszt) jest znacznie wyÃÂ¼szy od tylnego (bezanmasztu). Tylny maszt jest umieszczony przed koÃÂem sterowym (przed trzonem sterowym), co odrÃÂ³ÃÂ¼nia go od jola. SÃÂ to jednostki stabilne, ÃÂatwe w obsÃÂudze i popularne w turystyce."
+  },
+  "3": {
+    "correct": "c"
+  },
+  "4": {
+    "correct": "b",
+    "explanation": "Holenderskie miecze jachtowe (miecze boczne) to charakterystyczne dla tradycyjnych, pÃÂaskodennych barek ÃÂ¼aglowych i jachtÃÂ³w (np. typu Lemstergaak) pÃÂetwy mieczowe umieszczane po obu stronach kadÃÂuba. Zamiast centralnego miecza, te boczne pÃÂetwy poprawiajÃÂ sterownoÃÂÃÂ i zmniejszajÃÂ znoszenie boczne na pÃÂytkich wodach, takich jak Morze Wattowe, umoÃÂ¼liwiajÃÂc ÃÂ¼eglugÃÂ na osuchach."
+  },
+  "5": {
+    "correct": "a"
+  },
+  "6": {
+    "correct": "c"
+  },
+  "7": {
+    "correct": "b",
+    "image": "q7_jumpsztag.jpg"
+  },
+  "8": {
+    "correct": "a",
+    "image": "q8_rufy.jpg"
+  },
+  "9": {
+    "explanation": "Oto szczegÃ³Åowy opis rodzajÃ³w dziobÃ³w:\nDziÃ³b z nawisem krÄÅ¼owniczym / skoÅny: Obecnie najpowszechniejszy na jachtach turystycznych. Zapewnia duÅ¼y zapas wypornoÅci, co podnosi dzielnoÅÄ morskÄ.\nDziÃ³b prosty: CzÄsto stosowany w nowoczesnych konstrukcjach regatowych i turystycznych. Pozwala na maksymalne wydÅuÅ¼enie linii wodnej przy danej dÅugoÅci kadÅuba, co zwiÄksza prÄdkoÅÄ.\nDziÃ³b ÅyÅ¼kowy: Charakteryzuje siÄ duÅ¼ym wygiÄciem. W przechyle dziÃ³b ten wydÅuÅ¼a liniÄ wodnÄ, co zwiÄksza prÄdkoÅÄ, ale moÅ¼e nabieraÄ wody na pokÅad.\nDziÃ³b kliprowy: Klasyczny, wklÄsÅy ksztaÅt, wywodzÄcy siÄ z XIX-wiecznych kliprÃ³w. Obecnie rzadki, poniewaÅ¼ traci duÅ¼o energii na odrzucanie wody.\nDziÃ³b z gruszkÄ: Spotykany rzadko, gÅÃ³wnie na duÅ¼ych jednostkach typu motorsailer, konstrukcja z lat 70.. ",
+    "correct": "b"
+  },
+  "10": {
+    "correct": "b"
+  },
+  "11": {
+    "correct": "b",
+    "explanation": "GÅÃ³wne sposoby mocowania Å¼agli:\nLiklina w likszparze: Wszyta w krawÄdÅº Å¼agla linka jest wsuwana w specjalny rowek (likszparÄ) w maszcie lub bomie.\nPeÅzacze/Ålizgacze: Plastikowe lub metalowe ksztaÅtki (w ksztaÅcie litery T lub U) mocowane do liku Å¼agla, wsuwane w szynÄ na maszcie.\nWÃ³zki na szynie: System ÅoÅ¼yskowanych wÃ³zkÃ³w jeÅ¼dÅ¼Äcych po szynie, stosowany dla Åatwego stawiania/zrzucania Å¼agli, zwÅaszcza na wiÄkszych jednostkach.\nRaksy/karabiÅczyki: Metalowe lub plastikowe zatrzaski, najczÄÅciej uÅ¼ywane do mocowania foka do sztagu.\nÅ»mijka (marlinka): Tradycyjna metoda, w ktÃ³rej lina przechodzi przez remizki (otwory) w Å¼aglu i opina siÄ wokÃ³Å drzewca.\nKieszeÅ masztowa: W niektÃ³rych klasach (np. Laser) przednia krawÄdÅº Å¼agla ma kieszeÅ, w ktÃ³rÄ wsuwany jest caÅy maszt.\nSegarsy (pierÅcienie): Metalowe lub drewniane obrÄcze nakÅadane na maszt (typowe dla oÅ¼aglowania gaflowego). "
+  },
+  "12": {
+    "correct": "b",
+    "image": "q12_gafel.jpg"
+  },
+  "13": {
+    "correct": "a"
+  },
+  "14": {
+    "correct": "c"
+  },
+  "15": {
+    "correct": "b"
+  },
+  "16": {
+    "correct": "a"
+  },
+  "17": {
+    "correct": "c"
+  },
+  "18": {
+    "correct": "a"
+  },
+  "19": {
+    "correct": "c"
+  },
+  "20": {
+    "correct": "b"
+  },
+  "21": {
+    "correct": "c"
+  },
+  "22": {
+    "correct": "a"
+  },
+  "23": {
+    "correct": "b"
+  },
+  "24": {
+    "correct": "b"
+  },
+  "25": {
+    "correct": "b"
+  },
+  "26": {
+    "correct": "b"
+  },
+  "27": {
+    "correct": "c"
+  },
+  "28": {
+    "correct": "b"
+  },
+  "29": {
+    "correct": "c"
+  },
+  "30": {
+    "correct": "a"
+  },
+  "31": {
+    "correct": "a"
+  },
+  "32": {
+    "correct": "a"
+  },
+  "33": {
+    "correct": "b"
+  },
+  "34": {
+    "correct": "c"
+  },
+  "35": {
+    "correct": "b"
+  },
+  "36": {
+    "correct": "b"
+  },
+  "37": {
+    "correct": "a"
+  },
+  "38": {
+    "correct": "b"
+  },
+  "39": {
+    "correct": "c"
+  },
+  "40": {
+    "correct": "a"
+  },
+  "41": {
+    "correct": "c"
+  },
+  "42": {
+    "correct": "c"
+  },
+  "43": {
+    "correct": "b"
+  },
+  "44": {
+    "correct": "b"
+  },
+  "45": {
+    "correct": "a"
+  },
+  "46": {
+    "correct": "b"
+  },
+  "47": {
+    "correct": "a"
+  },
+  "48": {
+    "correct": "a"
+  },
+  "49": {
+    "correct": "c"
+  },
+  "50": {
+    "correct": "a"
+  },
+  "51": {
+    "correct": "b"
+  },
+  "52": {
+    "correct": "b"
+  },
+  "53": {
+    "correct": "a"
+  },
+  "54": {
+    "correct": "b"
+  },
+  "55": {
+    "correct": "c"
+  },
+  "56": {
+    "correct": "c"
+  },
+  "57": {
+    "correct": "c"
+  },
+  "58": {
+    "correct": "c"
+  },
+  "59": {
+    "correct": "b"
+  },
+  "60": {
+    "correct": "c"
+  },
+  "61": {
+    "correct": "c"
+  },
+  "62": {
+    "correct": "a"
+  },
+  "63": {
+    "correct": "c"
+  },
+  "64": {
+    "correct": "b"
+  },
+  "65": {
+    "correct": "a"
+  },
+  "66": {
+    "correct": "c"
+  },
+  "67": {
+    "correct": "a"
+  },
+  "68": {
+    "correct": "b"
+  },
+  "69": {
+    "correct": "a"
+  },
+  "70": {
+    "correct": "a"
+  },
+  "71": {
+    "correct": "a"
+  },
+  "72": {
+    "correct": "b"
+  },
+  "73": {
+    "correct": "a"
+  },
+  "74": {
+    "correct": "b"
+  },
+  "75": {
+    "correct": "b"
+  },
+  "76": {
+    "correct": "b"
+  },
+  "77": {
+    "correct": "c"
+  },
+  "78": {
+    "correct": "b",
+    "explanation": "Oto kluczowe zasady tego układu:\nPunkt wyjścia: Lina zaczyna się na knadze lub półkluzie dziobowej.\nKierunek: Biegnie skośnie w tył, wzdłuż burty jachtu.\nPunkt mocowania: Kończy się na polerze (pachołku) nabrzeża, który znajduje się na wysokości rufy jachtu lub za nią.\nDziałanie: Taki układ liny skutecznie uniemożliwia jachtowi przesuwanie się do przodu. \nWarto pamiętać, że nazwa szpringu (dziobowy/rufowy) pochodzi od miejsca, w którym lina jest zamocowana na jachcie, a nie na lądzie."
+  },
+  "79": {
+    "correct": "c"
+  },
+  "80": {
+    "correct": "a"
+  },
+  "81": {
+    "correct": "a"
+  },
+  "82": {
+    "correct": "b"
+  },
+  "83": {
+    "correct": "b"
+  },
+  "84": {
+    "correct": "c"
+  },
+  "85": {
+    "correct": "b"
+  },
+  "86": {
+    "correct": "b"
+  },
+  "87": {
+    "correct": "b"
+  },
+  "88": {
+    "correct": "c"
+  },
+  "89": {
+    "correct": "a"
+  },
+  "90": {
+    "correct": "a"
+  },
+  "91": {
+    "correct": "a"
+  },
+  "92": {
+    "correct": "b"
+  },
+  "93": {
+    "correct": "c"
+  },
+  "94": {
+    "correct": "c"
+  },
+  "95": {
+    "correct": "c"
+  },
+  "96": {
+    "correct": "a"
+  },
+  "97": {
+    "correct": "b"
+  },
+  "98": {
+    "correct": "a"
+  },
+  "99": {
+    "correct": "c"
+  },
+  "100": {
+    "correct": "a"
+  },
+  "101": {
+    "correct": "b",
+    "explanation": "Topenanta to lina podtrzymująca nok bomu, gdy żagle nie są postawione. Jeśli po postawieniu grota pozostanie ona zbyt mocno napięta (wybrana), unosi bom do góry, co uniemożliwia prawidłowe napięcie liku tylnego (wolnego) żagla."
+  },
+  "102": {
+    "correct": "a"
+  },
+  "103": {
+    "correct": "c"
+  },
+  "104": {
+    "correct": "a"
+  },
+  "105": {
+    "correct": "b",
+    "explanation": "Oba te typy jachtów są dwumasztowe, co oznacza, że noszą po trzy żagle podstawowe: dwa żagle przednie/główne na masztach (grot i bezan) oraz jeden żagiel przedni (fok).\nDla jasności:\nJol: Maszt pomocniczy (bezanmaszt) stoi daleko z tyłu, poza urządzeniem sterowym.\nKecz: Bezanmaszt stoi przed urządzeniem sterowym i jest wyższy niż na jolu.\nSlup (z punktu c): Ma tylko dwa żagle podstawowe (grot i fok), ponieważ posiada tylko jeden maszt."
+  },
+  "106": {
+    "correct": "c",
+    "explanation": "Obie te jednostki to jachty dwumasztowe. Główny maszt (grotmaszt) znajduje się z przodu, a mniejszy maszt pomocniczy (bezanmaszt) z tyłu.\nDla porównania:\nKet i Slup (a): To jednostki jednomasztowe. Ket ma tylko jeden żagiel, slup ma dwa (grot i fok).\nSluter (b): To również jednostka jednomasztowa, która od slupa różni się tym, że może nosić dwa żagle przednie jednocześnie (fok i kliwer)."
+  },
+  "107": {
+    "correct": "c"
+  },
+  "108": {
+    "correct": "a"
+  },
+  "109": {
+    "correct": "b"
+  },
+  "110": {
+    "correct": "c",
+    "explanation": "To podstawowy element osprzętu służący do unieruchamiania liny. Wyróżniamy:\nKnagę zwykłą (rogową): Tradycyjny kształt \"rogów\", na którym linę wiąże się w \"ósemkę\".\nKnagę szczękową: Posiada dwie ruchome, ząbkowane szczęki, które zaciskają się na linie.\nKnagę zaciskową (rowkową): Lina blokuje się w zwężającym się rowku z nacięciami (często spotykana na mniejszych jednostkach)."
+  },
+  "111": {
+    "correct": "b",
+    "explanation": "Kabestan jest wyposażony w mechanizm zapadkowy, który pozwala mu obracać się tylko w kierunku wybierania liny. Dzięki temu lina nie wyrywa się z rąk pod obciążeniem, gdy przestajesz kręcić korbą.\nCharakterystyczne „cykanie” podczas pracy kabestanu to właśnie dźwięk przeskakujących zapadek, które blokują ruch w przeciwną stronę.\n"
+  },
+  "112": {
+    "correct": "a"
+  },
+  "113": {
+    "correct": "b"
+  },
+  "114": {
+    "correct": "c",
+    "explanation": "Bączek to najmniejsza pomocnicza łódka na jachcie, służąca do komunikacji między jednostką stojącą na kotwicy lub boi a brzegiem. Często jest wyposażona w dulkę na rufie, co pozwala na wiosłowanie jednym wiosłem (tzw. pagajowanie lub ulowanie)."
+  },
+  "115": {
+    "correct": "a"
+  },
+  "116": {
+    "correct": "a",
+    "explanation": "W przypadku nieszczelności gaz (propan-butan) gromadzi się w najniższych punktach kadłuba, czyli w zęzie.\nDzieje się tak, ponieważ propan-butan jest cięższy od powietrza. Jest to skrajnie niebezpieczne, ponieważ:\nGaz nie ulotni się samoczynnie przez otwarte luki.\nNawet niewielka iskra (np. z pompy zęzowej lub lodówki) może spowodować wybuch.\nZęzę należy wietrzyć mechanicznie lub grawitacyjnie, dbając o wymuszoną cyrkulację powietrza w dolnych partiach jachtu."
+  },
+  "117": {
+    "correct": "b"
+  },
+  "118": {
+    "correct": "c"
+  },
+  "119": {
+    "correct": "a"
+  },
+  "120": {
+    "correct": "a"
+  },
+  "121": {
+    "correct": "c"
+  },
+  "122": {
+    "correct": "a"
+  },
+  "123": {
+    "correct": "a"
+  },
+  "124": {
+    "correct": "a"
+  },
+  "125": {
+    "correct": "c"
+  },
+  "126": {
+    "correct": "a"
+  },
+  "127": {
+    "correct": "a"
+  },
+  "128": {
+    "correct": "c"
+  },
+  "129": {
+    "correct": "b"
+  },
+  "130": {
+    "correct": "b"
+  },
+  "131": {
+    "correct": "b"
+  },
+  "132": {
+    "correct": "b"
+  },
+  "133": {
+    "correct": "a",
+    "explanation": "Fał płetwy sterowej – służy do jej opuszczania (w dół).\nKontrafał płetwy sterowej – służy do jej podnoszenia (w górę).\nSzoty – to liny służące wyłącznie do ustawiania żagli względem wiatru (np. szoty grota, szoty foku). Nie mają one żadnego zastosowania przy płetwie sterowej."
+  },
+  "134": {
+    "correct": "b"
+  },
+  "135": {
+    "correct": "a"
+  },
+  "136": {
+    "correct": "a"
+  },
+  "137": {
+    "correct": "b"
+  },
+  "138": {
+    "correct": "c"
+  },
+  "139": {
+    "correct": "a"
+  },
+  "140": {
+    "correct": "c"
+  },
+  "141": {
+    "correct": "a",
+    "explanation": "Jużing: To właśnie fachowa nazwa cienkiej, zazwyczaj smołowanej lub woskowanej linki (nici) używanej do prac bosmańskich, takich jak robienie marek czy oplotów. [1]\nKrawat: To krótki odcinek linki służący do przywiązywania złożonego żagla do bomu lub relingu."
+  },
+  "142": {
+    "correct": "a"
+  },
+  "143": {
+    "correct": "b"
+  },
+  "144": {
+    "correct": "b"
+  },
+  "145": {
+    "correct": "a",
+    "explanation": "Swoją nazwę zawdzięcza charakterystycznemu umiejscowieniu: jest to wąska koja wsuwająca się głęboko pod pokład kokpitu, co może przypominać wejście do budy"
+  },
+  "146": {
+    "correct": "a"
+  },
+  "147": {
+    "correct": "c"
+  },
+  "148": {
+    "correct": "b"
+  },
+  "149": {
+    "correct": "a"
+  },
+  "150": {
+    "correct": "a"
+  },
+  "151": {
+    "correct": "c"
+  },
+  "152": {
+    "correct": "c"
+  },
+  "153": {
+    "correct": "a"
+  },
+  "154": {
+    "correct": "a"
+  }
+}
