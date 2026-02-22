@@ -422,5 +422,49 @@
   },
   "136": {
     "correct": "a"
+  },
+  "137": {
+    "correct": "b"
+  },
+  "138": {
+    "correct": "c"
+  },
+  "139": {
+    "correct": "a"
+  },
+  "140": {
+    "correct": "c"
+  },
+  "141": {
+    "correct": "a",
+    "explanation": "Jużing: To właśnie fachowa nazwa cienkiej, zazwyczaj smołowanej lub woskowanej linki (nici) używanej do prac bosmańskich, takich jak robienie marek czy oplotów. [1]\nKrawat: To krótki odcinek linki służący do przywiązywania złożonego żagla do bomu lub relingu."
+  },
+  "142": {
+    "correct": "a"
+  },
+  "143": {
+    "correct": "b"
+  },
+  "144": {
+    "correct": "b"
+  },
+  "145": {
+    "correct": "a",
+    "explanation": "Swoją nazwę zawdzięcza charakterystycznemu umiejscowieniu: jest to wąska koja wsuwająca się głęboko pod pokład kokpitu, co może przypominać wejście do budy"
+  },
+  "146": {
+    "correct": "a"
+  },
+  "147": {
+    "correct": "c"
+  },
+  "148": {
+    "correct": "b"
+  },
+  "149": {
+    "correct": "a"
+  },
+  "150": {
+    "correct": "a"
   }
 }
