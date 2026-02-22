@@ -323,5 +323,55 @@
   "105": {
     "correct": "b",
     "explanation": "Oba te typy jachtów są dwumasztowe, co oznacza, że noszą po trzy żagle podstawowe: dwa żagle przednie/główne na masztach (grot i bezan) oraz jeden żagiel przedni (fok).\nDla jasności:\nJol: Maszt pomocniczy (bezanmaszt) stoi daleko z tyłu, poza urządzeniem sterowym.\nKecz: Bezanmaszt stoi przed urządzeniem sterowym i jest wyższy niż na jolu.\nSlup (z punktu c): Ma tylko dwa żagle podstawowe (grot i fok), ponieważ posiada tylko jeden maszt."
+  },
+  "106": {
+    "correct": "c",
+    "explanation": "Obie te jednostki to jachty dwumasztowe. Główny maszt (grotmaszt) znajduje się z przodu, a mniejszy maszt pomocniczy (bezanmaszt) z tyłu.\nDla porównania:\nKet i Slup (a): To jednostki jednomasztowe. Ket ma tylko jeden żagiel, slup ma dwa (grot i fok).\nSluter (b): To również jednostka jednomasztowa, która od slupa różni się tym, że może nosić dwa żagle przednie jednocześnie (fok i kliwer)."
+  },
+  "107": {
+    "correct": "c"
+  },
+  "108": {
+    "correct": "a"
+  },
+  "109": {
+    "correct": "b"
+  },
+  "110": {
+    "correct": "c",
+    "explanation": "To podstawowy element osprzętu służący do unieruchamiania liny. Wyróżniamy:\nKnagę zwykłą (rogową): Tradycyjny kształt \"rogów\", na którym linę wiąże się w \"ósemkę\".\nKnagę szczękową: Posiada dwie ruchome, ząbkowane szczęki, które zaciskają się na linie.\nKnagę zaciskową (rowkową): Lina blokuje się w zwężającym się rowku z nacięciami (często spotykana na mniejszych jednostkach)."
+  },
+  "111": {
+    "correct": "b",
+    "explanation": "Kabestan jest wyposażony w mechanizm zapadkowy, który pozwala mu obracać się tylko w kierunku wybierania liny. Dzięki temu lina nie wyrywa się z rąk pod obciążeniem, gdy przestajesz kręcić korbą.\nCharakterystyczne „cykanie” podczas pracy kabestanu to właśnie dźwięk przeskakujących zapadek, które blokują ruch w przeciwną stronę.\n"
+  },
+  "112": {
+    "correct": "a"
+  },
+  "113": {
+    "correct": "b"
+  },
+  "114": {
+    "correct": "c",
+    "explanation": "Bączek to najmniejsza pomocnicza łódka na jachcie, służąca do komunikacji między jednostką stojącą na kotwicy lub boi a brzegiem. Często jest wyposażona w dulkę na rufie, co pozwala na wiosłowanie jednym wiosłem (tzw. pagajowanie lub ulowanie)."
+  },
+  "115": {
+    "correct": "a"
+  },
+  "116": {
+    "correct": "a",
+    "explanation": "W przypadku nieszczelności gaz (propan-butan) gromadzi się w najniższych punktach kadłuba, czyli w zęzie.\nDzieje się tak, ponieważ propan-butan jest cięższy od powietrza. Jest to skrajnie niebezpieczne, ponieważ:\nGaz nie ulotni się samoczynnie przez otwarte luki.\nNawet niewielka iskra (np. z pompy zęzowej lub lodówki) może spowodować wybuch.\nZęzę należy wietrzyć mechanicznie lub grawitacyjnie, dbając o wymuszoną cyrkulację powietrza w dolnych partiach jachtu."
+  },
+  "117": {
+    "correct": "b"
+  },
+  "118": {
+    "correct": "c"
+  },
+  "119": {
+    "correct": "a"
+  },
+  "120": {
+    "correct": "a"
   }
 }
