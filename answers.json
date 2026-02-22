@@ -557,5 +557,36 @@
   },
   "180": {
     "correct": "c"
+  },
+  "181": {
+    "correct": "b"
+  },
+  "182": {
+    "correct": "c"
+  },
+  "183": {
+    "correct": "b"
+  },
+  "184": {
+    "correct": "b"
+  },
+  "185": {
+    "correct": "a"
+  },
+  "186": {
+    "correct": "c",
+    "explanation": "Tak, raksa to metalowy lub plastikowy pierścień (często w kształcie litery „C” lub z zatrzaskiem), który służy do mocowania liku przedniego foka do sztagu.\nDzięki raksom żagiel może swobodnie przesuwać się wzdłuż sztagu podczas jego podnoszenia (stawiania) lub opuszczania (zrzucania)."
+  },
+  "187": {
+    "correct": "a"
+  },
+  "188": {
+    "correct": "b"
+  },
+  "189": {
+    "correct": "a"
+  },
+  "190": {
+    "correct": "b"
   }
 }
