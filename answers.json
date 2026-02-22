@@ -240,5 +240,41 @@
   "78": {
     "correct": "b",
     "explanation": "Oto kluczowe zasady tego układu:\nPunkt wyjścia: Lina zaczyna się na knadze lub półkluzie dziobowej.\nKierunek: Biegnie skośnie w tył, wzdłuż burty jachtu.\nPunkt mocowania: Kończy się na polerze (pachołku) nabrzeża, który znajduje się na wysokości rufy jachtu lub za nią.\nDziałanie: Taki układ liny skutecznie uniemożliwia jachtowi przesuwanie się do przodu. \nWarto pamiętać, że nazwa szpringu (dziobowy/rufowy) pochodzi od miejsca, w którym lina jest zamocowana na jachcie, a nie na lądzie."
+  },
+  "79": {
+    "correct": "c"
+  },
+  "80": {
+    "correct": "a"
+  },
+  "81": {
+    "correct": "a"
+  },
+  "82": {
+    "correct": "b"
+  },
+  "83": {
+    "correct": "b"
+  },
+  "84": {
+    "correct": "c"
+  },
+  "85": {
+    "correct": "b"
+  },
+  "86": {
+    "correct": "b"
+  },
+  "87": {
+    "correct": "b"
+  },
+  "88": {
+    "correct": "c"
+  },
+  "89": {
+    "correct": "a"
+  },
+  "90": {
+    "correct": "a"
   }
 }
