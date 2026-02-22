@@ -41,5 +41,11 @@
   "12": {
     "correct": "b",
     "image": "q12_gafel.jpg"
+  },
+  "13": {
+    "correct": "a"
+  },
+  "14": {
+    "correct": "c"
   }
 }
