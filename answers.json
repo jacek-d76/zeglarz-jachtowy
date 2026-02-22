@@ -276,5 +276,52 @@
   },
   "90": {
     "correct": "a"
+  },
+  "91": {
+    "correct": "a"
+  },
+  "92": {
+    "correct": "b"
+  },
+  "93": {
+    "correct": "c"
+  },
+  "94": {
+    "correct": "c"
+  },
+  "95": {
+    "correct": "c"
+  },
+  "96": {
+    "correct": "a"
+  },
+  "97": {
+    "correct": "b"
+  },
+  "98": {
+    "correct": "a"
+  },
+  "99": {
+    "correct": "c"
+  },
+  "100": {
+    "correct": "a"
+  },
+  "101": {
+    "correct": "b",
+    "explanation": "Topenanta to lina podtrzymująca nok bomu, gdy żagle nie są postawione. Jeśli po postawieniu grota pozostanie ona zbyt mocno napięta (wybrana), unosi bom do góry, co uniemożliwia prawidłowe napięcie liku tylnego (wolnego) żagla."
+  },
+  "102": {
+    "correct": "a"
+  },
+  "103": {
+    "correct": "c"
+  },
+  "104": {
+    "correct": "a"
+  },
+  "105": {
+    "correct": "b",
+    "explanation": "Oba te typy jachtów są dwumasztowe, co oznacza, że noszą po trzy żagle podstawowe: dwa żagle przednie/główne na masztach (grot i bezan) oraz jeden żagiel przedni (fok).\nDla jasności:\nJol: Maszt pomocniczy (bezanmaszt) stoi daleko z tyłu, poza urządzeniem sterowym.\nKecz: Bezanmaszt stoi przed urządzeniem sterowym i jest wyższy niż na jolu.\nSlup (z punktu c): Ma tylko dwa żagle podstawowe (grot i fok), ponieważ posiada tylko jeden maszt."
   }
 }
