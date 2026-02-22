@@ -211,8 +211,7 @@ async function loadFromGitHub() {
     else if (!r.ok) throw new Error('Błąd ' + r.status);
     else {
       const data = await r.json();
-      answers = JSON.parse(atob(data.content.replace(/
-/g, '')));
+      answers = JSON.parse(atob(data.content.split('\n').join('')));
       setStatus('ok', '✓ Zsynchronizowano');
       showToast('✓ Dane załadowane z GitHub', 'ok');
     }
@@ -306,7 +305,7 @@ function updateProgress() {
 function renderFilters() {
   const chapters = ['all', ...new Set(QUESTIONS.map(q => q.chapter))];
   document.getElementById('filterBar').innerHTML = chapters.map(ch =>
-    `<button class="filter-btn ${ch === currentChapter ? 'active' : ''}" onclick="setChapter('${ch.replace(/'/g, "\'")}')">
+    `<button class="filter-btn ${ch === currentChapter ? 'active' : ''}" onclick="setChapter(this.dataset.ch)" data-ch="${ch}">
       ${ch === 'all' ? '📋 Wszystkie' : ch}
     </button>`).join('');
 }
