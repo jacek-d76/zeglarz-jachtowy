@@ -360,7 +360,8 @@ function renderQuestions() {
         <div class="q-num">#${q.id}</div>
         <div>
           <div class="q-chapter">${q.chapter}</div>
-          <div class="q-text">${q.question}</div>
+          <div class="q-text">${q.question.replace(/\[img:([^\]]+)\]/g, (m, fname) => 
+          `<img src="https://jacek-d76.github.io/zeglarz-jachtowy/images/explanations/${fname}" style="max-height:120px;display:block;margin-top:8px;">`)}</div>
         </div>
       </div>
       <div class="options">${opts}</div>
