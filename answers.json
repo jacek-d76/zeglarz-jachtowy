@@ -627,8 +627,15 @@
   "201": {
     "correct": "b"
   },
+  "202": {
+    "correct": "a",
+    "explanation": "W systemie oznakowania dróg wodnych (locja śródlądowa), znaki brzegowe wskazujące miejsca niebezpieczne lub przeszkody znajdujące się bezpośrednio przy brzegu wykorzystują kolory odpowiadające stronom szlaku:\nKolor czerwony jest przypisany do prawej strony szlaku (płynąc z prądem rzeki).\nKształt trójkąta skierowanego wierzchołkiem w dół, gdy jest umieszczony na stałe na lądzie, służy do precyzyjnego wskazania punktu, w którym występuje zagrożenie (np. podmyty brzeg, głazy, resztki budowli wodnych) po danej stronie. "
+  },
   "203": {
     "correct": "a"
+  },
+  "204": {
+    "correct": "b"
   },
   "205": {
     "explanation": "Jedno ÅwiatÅo czerwone â wejÅcie zabronione (stÃ³j przed ÅluzÄ).\nÅwiatÅo czerwone i zielone jednoczeÅnie â przygotowanie do otwarcia (bÄdÅº w gotowoÅci).\nJedno lub dwa ÅwiatÅa zielone â wejÅcie dozwolone (moÅ¼na wpÅywaÄ).\nDwa ÅwiatÅa czerwone â Åluza zamkniÄta, nieczynna lub przejÅcie caÅkowicie zabronione.",
