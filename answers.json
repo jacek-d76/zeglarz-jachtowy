@@ -638,7 +638,7 @@
     "correct": "b"
   },
   "205": {
-    "explanation": "Jedno ÅwiatÅo czerwone â wejÅcie zabronione (stÃ³j przed ÅluzÄ).\nÅwiatÅo czerwone i zielone jednoczeÅnie â przygotowanie do otwarcia (bÄdÅº w gotowoÅci).\nJedno lub dwa ÅwiatÅa zielone â wejÅcie dozwolone (moÅ¼na wpÅywaÄ).\nDwa ÅwiatÅa czerwone â Åluza zamkniÄta, nieczynna lub przejÅcie caÅkowicie zabronione.",
+    "explanation": "🔴 Jedno czerwone światło: Zakaz wejścia (śluza zamknięta).\n🔴🟢 Czerwone i zielone światło razem: Przygotowanie do otwarcia. Należy zachować gotowość do manewru, ale jeszcze nie wolno wpływać.\n🟢 Jedno zielone światło: Zezwolenie na wejście (droga wolna).\n🔴🔴 Dwa czerwone światła (jedno nad drugim): Śluza całkowicie wyłączona z eksploatacji (awaria lub przerwa w pracy).",
     "correct": "a"
   },
   "206": {
