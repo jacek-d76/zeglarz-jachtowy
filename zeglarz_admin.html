@@ -343,7 +343,7 @@ function renderQuestions() {
       if (!text) return '';
       return `<div class="option ${ans.correct === label ? 'selected' : ''}" onclick="selectAnswer(${q.id}, '${label}')">
         <div class="option-label">${label.toUpperCase()}</div>
-        <span class="option-text">${text.startsWith('[img:') ? '[obrazek z PDF]' : text}</span>
+        <span class="option-text">${text.startsWith('[img:') ? `<img src="https://jacek-d76.github.io/zeglarz-jachtowy/images/explanations/${text.slice(5,-1)}" style="max-height:80px;">` : text}</span>
       </div>`;
     }).join('');
 
