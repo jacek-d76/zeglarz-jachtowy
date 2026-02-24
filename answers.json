@@ -603,7 +603,11 @@
   },
   "195": {
     "image": "q195_1000076760.jpg",
-    "correct": "b"
+    "correct": "b",
+    "explanation": "Znaki kardynalne to boje lub tywy wskazujące, po której stronie (według kierunków świata) od znaku znajduje się bezpieczna, żeglowna woda.\n- Północny (N): Dwa czarne stożki wierzchołkami do góry. Omijamy od północy.\n- Wschodni (E): Stożki skierowane podstawami do siebie (kształt rombu). Omijamy od wschodu.\n- Południowy (S): Stożki wierzchołkami w dół. Omijamy od południa.\n- Zachodni (W): Stożki wierzchołkami do siebie (kształt klepsydry). Omijamy od zachodu."
+  },
+  "197": {
+    "image": "q197_znaki_kardynalne.jpg"
   },
   "199": {
     "correct": "a",
