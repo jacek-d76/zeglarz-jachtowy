@@ -1012,6 +1012,28 @@
   "326": {
     "correct": "c"
   },
+  "327": {
+    "correct": "b"
+  },
+  "328": {
+    "correct": "c"
+  },
+  "329": {
+    "correct": "b"
+  },
+  "330": {
+    "correct": "c"
+  },
+  "331": {
+    "correct": "a",
+    "explanation": "Niż baryczny (cyklon): To obszar, w którym stykają się różne masy powietrza (ciepłe i zimne). To właśnie na ich granicy powstają fronty. W typowym niżu fronty „kręcą się” wokół jego centrum (na półkuli północnej przeciwnie do ruchu wskazówek zegara)."
+  },
+  "332": {
+    "correct": "a"
+  },
+  "333": {
+    "correct": "b"
+  },
   "518": {
     "correct": "a"
   }
