@@ -1058,6 +1058,25 @@
   "341": {
     "correct": "a"
   },
+  "342": {
+    "correct": "b"
+  },
+  "343": {
+    "correct": "c"
+  },
+  "344": {
+    "correct": "a",
+    "explanation": "Strona zawietrzna osłania jednostkę przed bezpośrednim działaniem wiatru i falami, co zapewnia spokojniejszy postój, mniejsze kołysanie oraz mniejsze ryzyko zerwania kotwicy niż po stronie nawietrznej"
+  },
+  "345": {
+    "correct": "b"
+  },
+  "346": {
+    "correct": "b"
+  },
+  "347": {
+    "correct": "c"
+  },
   "518": {
     "correct": "a"
   }
