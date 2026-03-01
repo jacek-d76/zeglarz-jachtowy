@@ -1228,9 +1228,18 @@
     "correct": "b"
   },
   "398": {
-    "correct": "b"
+    "correct": "c"
   },
   "518": {
+    "correct": "a"
+  },
+  "785": {
+    "correct": "a"
+  },
+  "786": {
+    "correct": "c"
+  },
+  "787": {
     "correct": "a"
   }
 }
