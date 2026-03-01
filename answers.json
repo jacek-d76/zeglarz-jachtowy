@@ -727,6 +727,9 @@
     "correct": "c",
     "explanation": "Przepływając jachtem pod mostem na rzece, pomiędzy filarami wyrastającymi z wody, napotkamy przyspieszenie prądu i wiry. \n\nWynika to z faktu, że filary mostu zwężają koryto rzeki, co wymusza na wodzie szybszy przepływ przez mniejszą przestrzeń (efekt przewężenia) oraz powoduje zawirowania wody za przeszkodami (filarami)."
   },
+  "234": {
+    "correct": "c"
+  },
   "235": {
     "correct": "c"
   },
