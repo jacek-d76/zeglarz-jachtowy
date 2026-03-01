@@ -780,6 +780,29 @@
   "250": {
     "correct": "a"
   },
+  "251": {
+    "correct": "a"
+  },
+  "252": {
+    "correct": "a"
+  },
+  "253": {
+    "correct": "b"
+  },
+  "254": {
+    "correct": "c",
+    "explanation": "Naturalne rzeki prawie nigdy nie płyną idealnie prosto. W warunkach naturalnych rzeki meandrują, czyli tworzą zakola, pętle i łuki, szczególnie na terenach nizinnych o małym spadku terenu"
+  },
+  "255": {
+    "correct": "a"
+  },
+  "256": {
+    "correct": "c"
+  },
+  "257": {
+    "correct": "c",
+    "explanation": "Przemiał: To właśnie ta niska, piaszczysta łacha powstająca przy brzegach wypukłych. Jest to miejsce, gdzie rzeka „mieli” i osadza niesiony materiał (rumowisko), ponieważ nurt tam zwalnia. Przemiały często ciągną się od jednego brzegu wypukłego do drugiego (na skos koryta)."
+  },
   "518": {
     "correct": "a"
   }
