@@ -872,6 +872,31 @@
   "280": {
     "correct": "b"
   },
+  "281": {
+    "correct": "c"
+  },
+  "282": {
+    "correct": "c"
+  },
+  "283": {
+    "correct": "b"
+  },
+  "284": {
+    "correct": "c"
+  },
+  "285": {
+    "correct": "c"
+  },
+  "286": {
+    "correct": "a"
+  },
+  "287": {
+    "correct": "b",
+    "explanation": "1. Wody Śródlądowe (płynąc z prądem)\nPrawa strona: Czerwony walec (lub tyczka z czerwonym walcem).\nLewa strona: Zielony stożek (lub tyczka z zielonym stożkiem/wiechą).\nZasada: Płyniesz „od źródła”, więc czerwony kolor masz po prawej ręce.\n\n2. Wody Morskie (płynąc z morza do portu)\nPrawa strona: Zielony stożek (boja zielona).\nLewa strona: Czerwony walec (boja czerwona).\nZasada: Wchodząc do portu, czerwony walec mijasz swoją lewą burtą (która też ma czerwone światło).\n"
+  },
+  "288": {
+    "correct": "c"
+  },
   "518": {
     "correct": "a"
   }
