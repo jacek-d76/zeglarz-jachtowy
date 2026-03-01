@@ -952,7 +952,16 @@
     "correct": "a"
   },
   "307": {
-    "correct": "a"
+    "correct": "b"
+  },
+  "308": {
+    "correct": "b"
+  },
+  "309": {
+    "correct": "c"
+  },
+  "310": {
+    "correct": "c"
   },
   "518": {
     "correct": "a"
