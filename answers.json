@@ -975,6 +975,40 @@
   "314": {
     "correct": "b"
   },
+  "315": {
+    "correct": "b"
+  },
+  "316": {
+    "correct": "a"
+  },
+  "317": {
+    "correct": "a"
+  },
+  "318": {
+    "correct": "b"
+  },
+  "319": {
+    "correct": "b"
+  },
+  "320": {
+    "correct": "b"
+  },
+  "321": {
+    "correct": "c"
+  },
+  "322": {
+    "correct": "a"
+  },
+  "323": {
+    "correct": "a",
+    "explanation": "Dalba to solidny pal (lub wiązka kilku pali) wbity w dno akwenu, wystający ponad powierzchnię wody."
+  },
+  "324": {
+    "correct": "b"
+  },
+  "325": {
+    "correct": "a"
+  },
   "518": {
     "correct": "a"
   }
