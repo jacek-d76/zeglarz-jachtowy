@@ -663,11 +663,29 @@
     "correct": "b",
     "explanation": "Jeden żółty romb: Ruch dwukierunkowy (możesz płynąć Ty i statki z przeciwka).\nDwa żółte romby (obok siebie): Ruch dwukierunkowy, ale jest to przęsło zalecane (najlepsze warunki nawigacyjne).\nDwa żółte kwadraty (jeden nad drugim): Ruch jednokierunkowy (przejście dozwolone tylko z Twojej strony; od strony przeciwnej wiszą wtedy dwa czerwone kwadraty oznaczające zakaz)."
   },
+  "213": {
+    "correct": "b"
+  },
+  "214": {
+    "correct": "b"
+  },
   "215": {
     "correct": "a"
   },
   "216": {
     "correct": "b"
+  },
+  "217": {
+    "correct": "b"
+  },
+  "218": {
+    "correct": "a"
+  },
+  "219": {
+    "correct": "c"
+  },
+  "220": {
+    "correct": "a"
   },
   "226": {
     "correct": "b"
