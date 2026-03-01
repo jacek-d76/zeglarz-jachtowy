@@ -736,6 +736,14 @@
   "236": {
     "correct": "c"
   },
+  "237": {
+    "correct": "b",
+    "explanation": "Cumowanie jachtu w śluzie odbywa się na biegowo (czyli trzymając linę w ręku, a nie przywiązując ją na sztywno do knagi), co pozwala na płynną regulację długości cumy wraz ze zmianą poziomu wody."
+  },
+  "238": {
+    "correct": "a",
+    "explanation": "O pierwszeństwie wejścia do śluzy decyduje przede wszystkim obsługa śluzy (sygnały świetlne/dźwiękowe) oraz przepisy żeglugowe. Zasadniczo pierwszeństwo mają jednostki zorganizowane i większe, a mniejsze jednostki rekreacyjne (małe jednostki) ustępują im miejsca. "
+  },
   "518": {
     "correct": "a"
   }
