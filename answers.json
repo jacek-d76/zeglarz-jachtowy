@@ -3,8 +3,8 @@
     "correct": "b"
   },
   "2": {
-    "correct": "a",
-    "explanation": "Kecz to dwumasztowy ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¼aglowiec z oÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¼aglowaniem skoÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂnym, charakteryzujÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂcy siÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ tym, ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¼e przedni maszt (grotmaszt) jest znacznie wyÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¼szy od tylnego (bezanmasztu). Tylny maszt jest umieszczony przed koÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂem sterowym (przed trzonem sterowym), co odrÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¼nia go od jola. SÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ to jednostki stabilne, ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂatwe w obsÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂudze i popularne w turystyce."
+    "correct": "c",
+    "explanation": "Sloop (Slup): Jeden maszt, dwa żagle (grot i fok). Najpopularniejszy typ.\nKuter: Jeden maszt, ale posiada dwa żagle przednie (fok i sztaksel) lub fok i genue.\nJol: Dwa maszty, mniejszy maszt (bezanmaszt) znajduje się za trzonem sterowym.\nKecz: Dwa maszty, mniejszy maszt (bezanmaszt) znajduje się przed trzonem sterowym.\nSzkuner: Dwa lub więcej masztów, z których przedni (fokmaszt) jest równy lub niższy od następnego"
   },
   "3": {
     "correct": "c"
@@ -663,11 +663,44 @@
     "correct": "b",
     "explanation": "Jeden żółty romb: Ruch dwukierunkowy (możesz płynąć Ty i statki z przeciwka).\nDwa żółte romby (obok siebie): Ruch dwukierunkowy, ale jest to przęsło zalecane (najlepsze warunki nawigacyjne).\nDwa żółte kwadraty (jeden nad drugim): Ruch jednokierunkowy (przejście dozwolone tylko z Twojej strony; od strony przeciwnej wiszą wtedy dwa czerwone kwadraty oznaczające zakaz)."
   },
+  "213": {
+    "correct": "b"
+  },
+  "214": {
+    "correct": "b"
+  },
   "215": {
     "correct": "a"
   },
   "216": {
     "correct": "b"
+  },
+  "217": {
+    "correct": "b"
+  },
+  "218": {
+    "correct": "a"
+  },
+  "219": {
+    "correct": "c"
+  },
+  "220": {
+    "correct": "a"
+  },
+  "221": {
+    "correct": "c"
+  },
+  "222": {
+    "correct": "c"
+  },
+  "223": {
+    "correct": "a"
+  },
+  "224": {
+    "correct": "c"
+  },
+  "225": {
+    "correct": "c"
   },
   "226": {
     "correct": "b"
@@ -681,13 +714,73 @@
   "229": {
     "correct": "a"
   },
+  "230": {
+    "correct": "b"
+  },
   "231": {
     "correct": "a"
   },
   "232": {
     "correct": "b"
   },
+  "233": {
+    "correct": "c",
+    "explanation": "Przepływając jachtem pod mostem na rzece, pomiędzy filarami wyrastającymi z wody, napotkamy przyspieszenie prądu i wiry. \n\nWynika to z faktu, że filary mostu zwężają koryto rzeki, co wymusza na wodzie szybszy przepływ przez mniejszą przestrzeń (efekt przewężenia) oraz powoduje zawirowania wody za przeszkodami (filarami)."
+  },
+  "234": {
+    "correct": "c"
+  },
   "235": {
     "correct": "c"
+  },
+  "236": {
+    "correct": "c"
+  },
+  "237": {
+    "correct": "b",
+    "explanation": "Cumowanie jachtu w śluzie odbywa się na biegowo (czyli trzymając linę w ręku, a nie przywiązując ją na sztywno do knagi), co pozwala na płynną regulację długości cumy wraz ze zmianą poziomu wody."
+  },
+  "238": {
+    "correct": "c",
+    "explanation": "O pierwszeństwie wejścia do śluzy decyduje przede wszystkim obsługa śluzy (sygnały świetlne/dźwiękowe) oraz przepisy żeglugowe. Zasadniczo pierwszeństwo mają jednostki zorganizowane i większe, a mniejsze jednostki rekreacyjne (małe jednostki) ustępują im miejsca. "
+  },
+  "239": {
+    "correct": "b"
+  },
+  "240": {
+    "correct": "c"
+  },
+  "241": {
+    "correct": "b"
+  },
+  "242": {
+    "correct": "c"
+  },
+  "243": {
+    "correct": "c"
+  },
+  "244": {
+    "correct": "c"
+  },
+  "245": {
+    "correct": "b"
+  },
+  "246": {
+    "correct": "c"
+  },
+  "247": {
+    "correct": "c"
+  },
+  "248": {
+    "correct": "a"
+  },
+  "249": {
+    "correct": "a"
+  },
+  "250": {
+    "correct": "a"
+  },
+  "518": {
+    "correct": "a"
   }
 }
