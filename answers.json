@@ -1338,6 +1338,10 @@
     "correct": "a",
     "explanation": "1. Manewrowość (Główny powód)\nJacht płynący z prądem (A): Ma znacznie mniejszą sterowność. Prąd rzeki \"popycha\" jednostkę, co sprawia, że trudniej jest ją nagle zatrzymać lub wykonać gwałtowny unik. Ma on dłuższą drogę hamowania.\nJacht płynący pod prąd (B/C): Płynie \"opierając się\" wodzie. Dzięki temu ma doskonałą sterowność – może niemal stanąć w miejscu względem brzegu, zwiększając obroty silnika lub odpowiednio ustawiając żagle. Dlatego to on ma obowiązek ustąpić drogi."
   },
+  "433": {
+    "correct": "b",
+    "explanation": "Kluczowe zasady wyprzedzania:\nObowiązek ustąpienia (A): Jacht wyprzedzający musi trzymać się z dala od drogi jachtu wyprzedzanego, dopóki całkowicie go nie minie i nie oddali się na bezpieczną odległość.\nBrak zmiany statusu: Nawet jeśli jacht wyprzedzający płynie na żaglach, a wyprzedzany na silniku – w tej konkretnej sytuacji wyprzedzany zachowuje pierwszeństwo.\nKurs i prędkość: Jacht wyprzedzany powinien w miarę możliwości utrzymywać swój kurs i prędkość, aby nie utrudniać manewru jednostce wyprzedzającej (chyba że sytuacja wymaga uniknięcia zderzenia)."
+  },
   "518": {
     "correct": "a"
   },
