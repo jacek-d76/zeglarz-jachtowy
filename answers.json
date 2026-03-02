@@ -1277,6 +1277,52 @@
   "413": {
     "correct": "a"
   },
+  "414": {
+    "correct": "b"
+  },
+  "415": {
+    "correct": "c"
+  },
+  "416": {
+    "correct": "c"
+  },
+  "417": {
+    "correct": "a"
+  },
+  "418": {
+    "correct": "b"
+  },
+  "419": {
+    "correct": "b"
+  },
+  "420": {
+    "correct": "c"
+  },
+  "421": {
+    "correct": "a"
+  },
+  "422": {
+    "correct": "c"
+  },
+  "423": {
+    "correct": "b"
+  },
+  "424": {
+    "correct": "a"
+  },
+  "425": {
+    "correct": "b",
+    "explanation": "Zasada: Nawietrzny ustępuje zawietrznemu\nJacht nawietrzny (B): To ten, który znajduje się bliżej strony, z której wieje wiatr. Ma on większą swobodę manewru i lepszą widoczność sytuacji, dlatego musi ustąpić.\nJacht zawietrzny: To ten, który znajduje się \"pod wiatrem\" drugiego jachtu. Ma on pierwszeństwo.\nJak to zapamiętać?\nW żeglarstwie obowiązuje hierarchia \"trudności manewru\". Jacht, który jest zawietrzny, ma ograniczone pole manewru (nie może swobodnie ostrzyć do wiatru, bo tam znajduje się drugi jacht), dlatego jacht nawietrzny musi mu zrobić miejsce.\n\nWyobraź sobie, że wiatr to strumień wody z wielkiego węża ogrodowego:\nJacht NAWIETRZNY to ten, który pierwszy „dostaje” wodą.\nJacht ZAWIETRZNY to ten, który znajduje się w cieniu (osłonie) tego pierwszego."
+  },
+  "426": {
+    "correct": "b"
+  },
+  "427": {
+    "correct": "c"
+  },
+  "428": {
+    "correct": "c"
+  },
   "518": {
     "correct": "a"
   },
