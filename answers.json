@@ -1326,6 +1326,10 @@
   "429": {
     "correct": "b"
   },
+  "430": {
+    "correct": "a",
+    "explanation": "1. Prawy hals ma pierwszeństwo\nJacht na prawym halsie (A): To ten, któremu wiatr wieje w prawą burtę (żagle ma po lewej stronie). Płynie on „drogą z pierwszeństwem”.\nJacht na lewym halsie (B): To ten, któremu wiatr wieje w lewą burtę (żagle ma po prawej stronie). Ten jacht musi ustąpić drogi."
+  },
   "518": {
     "correct": "a"
   },
