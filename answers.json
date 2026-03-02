@@ -1234,8 +1234,48 @@
     "correct": "b",
     "explanation": "1. Analiza limitów długości kadłuba\nZgodnie z polską Ustawą o żegludze śródlądowej, osoby fizyczne mogą prowadzić jachty żaglowe o długości kadłuba do \n m bez konieczności posiadania patentu żeglarskiego. Limit ten jest sztywną granicą – jeśli jacht ma choćby \n m długości, osoba za sterem musi legitymować się co najmniej stopniem żeglarza jachtowego.\n2. Dodatkowe uprawnienia bez patentu\nWarto wiedzieć, że brak uprawnień nie ogranicza Cię tylko do małych żaglówek. Bez patentu możesz również prowadzić:\nJachty motorowe o mocy silnika do \n kW (ok. \n KM).\nJachty motorowe o mocy silnika do \n kW i długości do \n m, których prędkość konstrukcyjna jest ograniczona do \n km/h (tzw. jachty spacerowe lub houseboaty)."
   },
+  "400": {
+    "correct": "c",
+    "explanation": "Pojęcie „statku żaglowego”: Obejmuje jednostki poruszające się wyłącznie przy użyciu siły wiatru.\nWażne zastrzeżenie (Sytuacja B): Jeśli jacht korzysta jednocześnie z żagli i silnika, w świetle przepisów jest traktowany jako statek o napędzie mechanicznym. Musi wtedy stosować się do reguł pierwszeństwa właściwych dla motorówek i wystawić odpowiedni znak (czarny stożek skierowany wierzchołkiem w dół)."
+  },
+  "401": {
+    "correct": "a"
+  },
   "402": {
     "correct": "c"
+  },
+  "403": {
+    "correct": "c"
+  },
+  "404": {
+    "correct": "c"
+  },
+  "405": {
+    "correct": "b"
+  },
+  "406": {
+    "correct": "b"
+  },
+  "407": {
+    "correct": "a"
+  },
+  "408": {
+    "correct": "b"
+  },
+  "409": {
+    "correct": "a"
+  },
+  "410": {
+    "correct": "c"
+  },
+  "411": {
+    "correct": "b"
+  },
+  "412": {
+    "correct": "b"
+  },
+  "413": {
+    "correct": "a"
   },
   "518": {
     "correct": "a"
