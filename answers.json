@@ -1485,6 +1485,39 @@
   "478": {
     "correct": "a"
   },
+  "479": {
+    "correct": "a"
+  },
+  "480": {
+    "correct": "a",
+    "explanation": "Jest to jedna z podstawowych zasad bezpieczeństwa na wodzie (tzw. zasada drogi), analogiczna do ruchu prawostronnego na lądzie. Zgodnie z przepisami:\nManewr: Oba jachty muszą wyraźnie zmienić kurs w swoją prawą burtę, tak aby minąć się lewymi burtami.\nJasność zamiarów: Zmiana kursu powinna być na tyle duża, by była wyraźnie widoczna dla sternika płynącego z naprzeciwka.\nSygnalizacja: W takiej sytuacji każdy z jachtów może nadać jeden krótki dźwięk, potwierdzając zmianę kursu w prawo."
+  },
+  "481": {
+    "correct": "b",
+    "explanation": "W żegludze motorowej obowiązuje prosta zasada „prawej ręki”, bardzo podobna do tej ze skrzyżowań równorzędnych w ruchu drogowym:\nObowiązek ustąpienia: Statkiem, który ma ustąpić drogi, jest ten, który widzi drugi statek po swojej prawej burcie.\nSposób wykonania: Jednostka ustępująca powinna, jeśli pozwalają na to warunki, uniknąć przecinania kursu przed dziobem drugiego statku (najlepiej przejść za jego rufą lub wyraźnie zmienić kurs w prawo).\nPotwierdzenie: Jeśli to możliwe, manewr powinien być wykonany wcześnie i być wyraźny dla drugiego sternika."
+  },
+  "482": {
+    "correct": "a"
+  },
+  "483": {
+    "correct": "b"
+  },
+  "484": {
+    "correct": "c"
+  },
+  "485": {
+    "correct": "a"
+  },
+  "486": {
+    "correct": "b",
+    "explanation": "W nawigacji morskiej odległości mierzy się na podziałce szerokości geograficznej, która znajduje się na lewej lub prawej krawędzi mapy (pionowej).\nWynika to z faktu, że:\n1 minuta szerokości geograficznej (1' na bocznej ramce) odpowiada dokładnie 1 mili morskiej (1852 m).\nDolna podziałka (pozioma) służy do odczytywania długości geograficznej. Odległość między południkami zmienia się wraz ze zbliżaniem się do biegunów, więc nie można jej używać jako uniwersalnej miary odległości.\nZawsze pamiętaj, aby odległość odmierzoną przenośnikiem sprawdzać na bocznej ramce mapy na tej samej wysokości, na której mierzysz trasę (ze względu na zniekształcenia odwzorowania Merkatora)."
+  },
+  "487": {
+    "correct": "b"
+  },
+  "488": {
+    "correct": "a"
+  },
   "518": {
     "correct": "a"
   },
