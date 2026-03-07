@@ -1228,9 +1228,339 @@
     "correct": "b"
   },
   "398": {
+    "correct": "c"
+  },
+  "399": {
+    "correct": "b",
+    "explanation": "1. Analiza limitów długości kadłuba\nZgodnie z polską Ustawą o żegludze śródlądowej, osoby fizyczne mogą prowadzić jachty żaglowe o długości kadłuba do \n m bez konieczności posiadania patentu żeglarskiego. Limit ten jest sztywną granicą – jeśli jacht ma choćby \n m długości, osoba za sterem musi legitymować się co najmniej stopniem żeglarza jachtowego.\n2. Dodatkowe uprawnienia bez patentu\nWarto wiedzieć, że brak uprawnień nie ogranicza Cię tylko do małych żaglówek. Bez patentu możesz również prowadzić:\nJachty motorowe o mocy silnika do \n kW (ok. \n KM).\nJachty motorowe o mocy silnika do \n kW i długości do \n m, których prędkość konstrukcyjna jest ograniczona do \n km/h (tzw. jachty spacerowe lub houseboaty)."
+  },
+  "400": {
+    "correct": "c",
+    "explanation": "Pojęcie „statku żaglowego”: Obejmuje jednostki poruszające się wyłącznie przy użyciu siły wiatru.\nWażne zastrzeżenie (Sytuacja B): Jeśli jacht korzysta jednocześnie z żagli i silnika, w świetle przepisów jest traktowany jako statek o napędzie mechanicznym. Musi wtedy stosować się do reguł pierwszeństwa właściwych dla motorówek i wystawić odpowiedni znak (czarny stożek skierowany wierzchołkiem w dół)."
+  },
+  "401": {
+    "correct": "a"
+  },
+  "402": {
+    "correct": "c"
+  },
+  "403": {
+    "correct": "c"
+  },
+  "404": {
+    "correct": "c"
+  },
+  "405": {
     "correct": "b"
   },
+  "406": {
+    "correct": "b"
+  },
+  "407": {
+    "correct": "a"
+  },
+  "408": {
+    "correct": "b"
+  },
+  "409": {
+    "correct": "a"
+  },
+  "410": {
+    "correct": "c"
+  },
+  "411": {
+    "correct": "b"
+  },
+  "412": {
+    "correct": "b"
+  },
+  "413": {
+    "correct": "a"
+  },
+  "414": {
+    "correct": "b"
+  },
+  "415": {
+    "correct": "c"
+  },
+  "416": {
+    "correct": "c"
+  },
+  "417": {
+    "correct": "a"
+  },
+  "418": {
+    "correct": "b"
+  },
+  "419": {
+    "correct": "b"
+  },
+  "420": {
+    "correct": "c"
+  },
+  "421": {
+    "correct": "a"
+  },
+  "422": {
+    "correct": "c"
+  },
+  "423": {
+    "correct": "b"
+  },
+  "424": {
+    "correct": "a"
+  },
+  "425": {
+    "correct": "b",
+    "explanation": "Zasada: Nawietrzny ustępuje zawietrznemu\nJacht nawietrzny (B): To ten, który znajduje się bliżej strony, z której wieje wiatr. Ma on większą swobodę manewru i lepszą widoczność sytuacji, dlatego musi ustąpić.\nJacht zawietrzny: To ten, który znajduje się \"pod wiatrem\" drugiego jachtu. Ma on pierwszeństwo.\nJak to zapamiętać?\nW żeglarstwie obowiązuje hierarchia \"trudności manewru\". Jacht, który jest zawietrzny, ma ograniczone pole manewru (nie może swobodnie ostrzyć do wiatru, bo tam znajduje się drugi jacht), dlatego jacht nawietrzny musi mu zrobić miejsce.\n\nWyobraź sobie, że wiatr to strumień wody z wielkiego węża ogrodowego:\nJacht NAWIETRZNY to ten, który pierwszy „dostaje” wodą.\nJacht ZAWIETRZNY to ten, który znajduje się w cieniu (osłonie) tego pierwszego."
+  },
+  "426": {
+    "correct": "b"
+  },
+  "427": {
+    "correct": "c"
+  },
+  "428": {
+    "correct": "c"
+  },
+  "429": {
+    "correct": "b"
+  },
+  "430": {
+    "correct": "a",
+    "explanation": "1. Prawy hals ma pierwszeństwo\nJacht na prawym halsie (A): To ten, któremu wiatr wieje w prawą burtę (żagle ma po lewej stronie). Płynie on „drogą z pierwszeństwem”.\nJacht na lewym halsie (B): To ten, któremu wiatr wieje w lewą burtę (żagle ma po prawej stronie). Ten jacht musi ustąpić drogi."
+  },
+  "431": {
+    "correct": "b",
+    "explanation": "Dlaczego jacht wychodzący ma pierwszeństwo?\nBezpieczeństwo (miejsce do manewru): Jacht znajdujący się wewnątrz portu ma bardzo ograniczoną przestrzeń. Jeśli silnik zgaśnie lub uderzy silny podmuch wiatru, jacht w środku ma mało miejsca na ratunek. Jacht na otwartej wodzie (wchodzący) ma mnóstwo miejsca, by zwolnić, zatrzymać się lub poczekać.\nDrożność portu: Najpierw należy „opróżnić” port z jednostek, aby zwolnić miejsca przy pomostach dla tych, którzy właśnie przypływają."
+  },
+  "432": {
+    "correct": "a",
+    "explanation": "1. Manewrowość (Główny powód)\nJacht płynący z prądem (A): Ma znacznie mniejszą sterowność. Prąd rzeki \"popycha\" jednostkę, co sprawia, że trudniej jest ją nagle zatrzymać lub wykonać gwałtowny unik. Ma on dłuższą drogę hamowania.\nJacht płynący pod prąd (B/C): Płynie \"opierając się\" wodzie. Dzięki temu ma doskonałą sterowność – może niemal stanąć w miejscu względem brzegu, zwiększając obroty silnika lub odpowiednio ustawiając żagle. Dlatego to on ma obowiązek ustąpić drogi."
+  },
+  "433": {
+    "correct": "b",
+    "explanation": "Kluczowe zasady wyprzedzania:\nObowiązek ustąpienia (A): Jacht wyprzedzający musi trzymać się z dala od drogi jachtu wyprzedzanego, dopóki całkowicie go nie minie i nie oddali się na bezpieczną odległość.\nBrak zmiany statusu: Nawet jeśli jacht wyprzedzający płynie na żaglach, a wyprzedzany na silniku – w tej konkretnej sytuacji wyprzedzany zachowuje pierwszeństwo.\nKurs i prędkość: Jacht wyprzedzany powinien w miarę możliwości utrzymywać swój kurs i prędkość, aby nie utrudniać manewru jednostce wyprzedzającej (chyba że sytuacja wymaga uniknięcia zderzenia)."
+  },
+  "434": {
+    "correct": "c"
+  },
+  "435": {
+    "correct": "b"
+  },
+  "436": {
+    "correct": "c",
+    "explanation": "W żegludze śródlądowej hierarchia pierwszeństwa opiera się na zdolności manewrowej jednostki. Im trudniej jest danym typem napędu wykonać nagły manewr, tym większy ma on przywilej.\nZasada wygląda następująco:\nStatek wiosłowy – ma największe pierwszeństwo, ponieważ jego napęd zależy wyłącznie od siły ludzkich mięśni i jest najmniej wydajny w sytuacjach awaryjnych.\nStatek żaglowy – ustępuje wiosłowemu, ale ma pierwszeństwo przed motorowym (zależy od kaprysów wiatru).\nStatek o napędzie mechanicznym (motorowy) – jest najbardziej sterowny i niezależny od warunków zewnętrznych, dlatego musi ustąpić pozostałym."
+  },
+  "437": {
+    "correct": "a"
+  },
+  "438": {
+    "correct": "b"
+  },
+  "439": {
+    "explanation": "Zgodnie z Międzynarodowymi Przepisami o Zapobieganiu Zderzeniom na Morzu (MPZZM) oraz przepisami śródlądowymi, statki o napędzie mechanicznym będące w drodze, widząc się wzajemnie, sygnalizują swoje manewry kursowe za pomocą krótkich dźwięków (trwających około 1 sekundy):\n1 krótki dźwięk: „Zmieniam swój kurs w prawo”.\n2 krótkie dźwięki: „Zmieniam swój kurs w lewo”.\n3 krótkie dźwięki: „Moje maszyny pracują wstecz”",
+    "correct": "a"
+  },
+  "440": {
+    "explanation": "Poprawna odpowiedź to C: 1 krótki, 1 długi i 2 krótkie dźwięki.\nTen specyficzny sygnał (kod Morse'a: • — • •, czyli litera L) jest używany na drogach śródlądowych przez statki organów kontrolnych (np. Policję, Straż Graniczną lub służby ratownicze), aby nakazać innej jednostce natychmiastowe zatrzymanie się.",
+    "correct": "c"
+  },
+  "441": {
+    "correct": "c"
+  },
+  "442": {
+    "correct": "a"
+  },
+  "443": {
+    "correct": "b"
+  },
+  "444": {
+    "correct": "c"
+  },
+  "445": {
+    "correct": "c"
+  },
+  "446": {
+    "correct": "a"
+  },
+  "447": {
+    "correct": "c",
+    "explanation": "Według przepisów żeglugowych stan statku dzieli się na dwa główne rodzaje: „w drodze” oraz „na postoju”. Aby jednostka była uznana za stojącą na postoju, musi mieć stałe połączenie z dnem lub lądem, które uniemożliwia jej swobodne przemieszczanie się z prądem lub wiatrem."
+  },
+  "448": {
+    "correct": "c"
+  },
+  "449": {
+    "correct": "b",
+    "explanation": "W tradycyjnym systemie wachtowym czas odmierza się w cyklach 4-godzinnych, a każda godzina to dwie „szklanki” (uderzenia w dzwon). Cykl dla godziny 15.00 wygląda następująco:\n12.00 – 8 szklanek (koniec poprzedniej wachty)\n13.00 – 2 szklanki\n14.00 – 4 szklanki\n15.00 – 6 uderzeń, czyli 3 pary (szklanki)\nZasada jest prosta: co pół godziny wybija się jedno uderzenie, a co godzinę parę. O godzinie 15.00 (czyli 3 godziny po rozpoczęciu wachty o 12.00) mamy 6 uderzeń, co żeglarze nazywają wybiciem trzech szklanek."
+  },
+  "450": {
+    "correct": "c"
+  },
+  "451": {
+    "correct": "b"
+  },
+  "452": {
+    "correct": "c"
+  },
+  "453": {
+    "correct": "c"
+  },
+  "454": {
+    "correct": "a"
+  },
+  "455": {
+    "correct": "c"
+  },
+  "456": {
+    "correct": "c"
+  },
+  "457": {
+    "correct": "b"
+  },
+  "458": {
+    "correct": "c"
+  },
+  "459": {
+    "correct": "a"
+  },
+  "460": {
+    "correct": "b"
+  },
+  "461": {
+    "correct": "b"
+  },
+  "462": {
+    "correct": "a"
+  },
+  "463": {
+    "correct": "c",
+    "explanation": "Zgodnie z przepisami żeglugi śródlądowej, w miejscach zwężeń (takich jak mosty czy śluzy), gdzie wyminięcie się jednostek jest niemożliwe lub utrudnione, pierwszeństwo ma statek płynący z prądem wody (w dół rzeki).\nWynika to z logiki bezpieczeństwa:\nStatek płynący w dół ma znacznie mniejszą sterowność i trudniej mu się zatrzymać lub manewrować, ponieważ prąd „pcha” go w stronę przeszkody.\nStatek płynący pod prąd może łatwiej utrzymać pozycję w miejscu lub wyhamować, wykorzystując opór wody"
+  },
+  "464": {
+    "correct": "b"
+  },
+  "465": {
+    "correct": "a"
+  },
+  "466": {
+    "correct": "b"
+  },
+  "467": {
+    "correct": "c"
+  },
+  "468": {
+    "correct": "a"
+  },
+  "469": {
+    "correct": "a"
+  },
+  "470": {
+    "explanation": "W nocy identyfikacja kierunku płynięcia innej jednostki opiera się na kolorach świateł burtowych oraz świetle masztowym (topowym):\nPrawa burta: Widzisz światło zielone (burtowe) oraz światło białe (masztowe).\nLewa burta: Widziałbyś światło czerwone (burtowe) oraz światło białe (masztowe).\nRufa (tył): Widziałbyś tylko pojedyncze światło białe (rufowe).\nDziób (płynie na Ciebie): Widziałbyś oba światła burtowe (czerwone i zielone) oraz białe światło masztowe powyżej nich.\n",
+    "correct": "c"
+  },
+  "471": {
+    "correct": "c"
+  },
+  "472": {
+    "correct": "a"
+  },
+  "473": {
+    "correct": "c"
+  },
+  "474": {
+    "explanation": "Zgodnie z Prawidłem 23 MPZZM (Międzynarodowe Przepisy o Zapobieganiu Zderzeniom na Morzu), oświetlenie statków o napędzie mechanicznym w drodze zależy od ich długości:\nPowyżej 50 metrów: Taki statek ma obowiązek nieść dwa światła masztowe (jedno z przodu, drugie z tyłu i wyżej – tworzące tzw. linię świateł masztowych), a także światła burtowe i światło rufowe.\nPoniżej 50 metrów: Statek ten musi nieść jedno światło masztowe, światła burtowe i światło rufowe (choć może nieść drugie światło masztowe dobrowolnie).\nPoniżej 12 metrów: Może zamiast oddzielnych świateł masztowego i rufowego nieść jedno białe światło widoczne dookoła poziomu oraz światła burtowe. \nAKM Gdańsk\nAKM Gdańsk\n +3\nDwa światła masztowe widziane w nocy pozwalają innym jednostkom łatwiej ocenić kurs oraz wielkość statku, co jest kluczowe dla bezpieczeństwa na morzu.",
+    "correct": "b"
+  },
+  "475": {
+    "correct": "a"
+  },
+  "476": {
+    "correct": "b"
+  },
+  "477": {
+    "correct": "c"
+  },
+  "478": {
+    "correct": "a"
+  },
   "518": {
+    "correct": "a"
+  },
+  "785": {
+    "correct": "a"
+  },
+  "786": {
+    "correct": "c"
+  },
+  "787": {
+    "correct": "a"
+  },
+  "788": {
+    "correct": "c"
+  },
+  "789": {
+    "correct": "a"
+  },
+  "790": {
+    "correct": "a"
+  },
+  "791": {
+    "correct": "b"
+  },
+  "792": {
+    "correct": "c"
+  },
+  "793": {
+    "correct": "b"
+  },
+  "794": {
+    "correct": "a"
+  },
+  "795": {
+    "correct": "a"
+  },
+  "796": {
+    "correct": "a"
+  },
+  "797": {
+    "correct": "a"
+  },
+  "798": {
+    "correct": "c"
+  },
+  "799": {
+    "correct": "b"
+  },
+  "800": {
+    "correct": "c"
+  },
+  "801": {
+    "correct": "b"
+  },
+  "802": {
+    "correct": "b"
+  },
+  "803": {
+    "correct": "c"
+  },
+  "804": {
+    "correct": "b"
+  },
+  "805": {
+    "correct": "a"
+  },
+  "806": {
+    "correct": "a"
+  },
+  "807": {
+    "correct": "b"
+  },
+  "808": {
+    "correct": "b"
+  },
+  "809": {
     "correct": "a"
   }
 }
