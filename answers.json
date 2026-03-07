@@ -1469,6 +1469,22 @@
   "473": {
     "correct": "c"
   },
+  "474": {
+    "explanation": "Zgodnie z Prawidłem 23 MPZZM (Międzynarodowe Przepisy o Zapobieganiu Zderzeniom na Morzu), oświetlenie statków o napędzie mechanicznym w drodze zależy od ich długości:\nPowyżej 50 metrów: Taki statek ma obowiązek nieść dwa światła masztowe (jedno z przodu, drugie z tyłu i wyżej – tworzące tzw. linię świateł masztowych), a także światła burtowe i światło rufowe.\nPoniżej 50 metrów: Statek ten musi nieść jedno światło masztowe, światła burtowe i światło rufowe (choć może nieść drugie światło masztowe dobrowolnie).\nPoniżej 12 metrów: Może zamiast oddzielnych świateł masztowego i rufowego nieść jedno białe światło widoczne dookoła poziomu oraz światła burtowe. \nAKM Gdańsk\nAKM Gdańsk\n +3\nDwa światła masztowe widziane w nocy pozwalają innym jednostkom łatwiej ocenić kurs oraz wielkość statku, co jest kluczowe dla bezpieczeństwa na morzu.",
+    "correct": "b"
+  },
+  "475": {
+    "correct": "a"
+  },
+  "476": {
+    "correct": "b"
+  },
+  "477": {
+    "correct": "c"
+  },
+  "478": {
+    "correct": "a"
+  },
   "518": {
     "correct": "a"
   },
