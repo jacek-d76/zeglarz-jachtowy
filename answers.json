@@ -1620,6 +1620,53 @@
   "521": {
     "correct": "a"
   },
+  "522": {
+    "correct": "b"
+  },
+  "523": {
+    "correct": "a"
+  },
+  "524": {
+    "correct": "c"
+  },
+  "525": {
+    "correct": "b"
+  },
+  "526": {
+    "correct": "a"
+  },
+  "527": {
+    "correct": "b"
+  },
+  "528": {
+    "correct": "c"
+  },
+  "529": {
+    "correct": "a"
+  },
+  "530": {
+    "correct": "a"
+  },
+  "531": {
+    "correct": "b"
+  },
+  "532": {
+    "correct": "c"
+  },
+  "533": {
+    "correct": "b"
+  },
+  "534": {
+    "correct": "b",
+    "explanation": "Pozycja „CLINCH” (znana również jako pozycja tratwy lub „huddle”) to technika przetrwania w zimnej wodzie stosowana przez grupę osób mających na sobie kamizelki ratunkowe. Polega ona na:\nCiasnym przytuleniu się do siebie bokami w kręgu.\nSpleceniu ramion i nóg.\nUmieszczeniu dzieci lub osób najbardziej wychłodzonych w środku koła.\nGłównym celem tej pozycji jest zmniejszenie utraty ciepła (wspólne ogrzewanie się) oraz zwiększenie widoczności grupy dla ekip ratunkowych."
+  },
+  "535": {
+    "correct": "c",
+    "explanation": "Pozycja HELP (Heat Escape Lessening Posture) to technika przetrwania dla osoby znajdującej się w wodzie samotnie w kamizelce ratunkowej. Polega ona na:\nPodciągnięciu kolan do klatki piersiowej.\nSpleceniu dłoni przed sobą i trzymaniu ramion blisko boków ciała.\nNieruchomym dryfowaniu.\nDzięki takiej pozycji chronisz miejsca, przez które organizm najszybciej traci energię cieplną: pachwiny, pachy oraz klatkę piersiową. Pozwala to wydłużyć czas przeżycia w zimnej wodzie nawet o 50%."
+  },
+  "536": {
+    "correct": "c"
+  },
   "785": {
     "correct": "a"
   },
