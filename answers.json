@@ -1574,6 +1574,40 @@
   "506": {
     "correct": "b"
   },
+  "507": {
+    "correct": "a"
+  },
+  "508": {
+    "correct": "b",
+    "explanation": "Kluczowym faktem jest to, że jacht płynący na silniku (nawet jeśli ma postawione żagle) jest w świetle przepisów statkiem o napędzie mechanicznym.\nWzględem jachtów żaglowych i jednostek bez napędu: Jako „motorowiec” masz obowiązek ustąpić wszystkim jednostkom o mniejszych możliwościach manewrowych (żaglówkom, wiosłówkom, kajakom).\nWzględem innych motorówek: Obowiązuje zasada prawej ręki. Jeśli inny jacht o napędzie mechanicznym nadpływa z Twojej prawej strony na kursie przecinającym się, musisz mu ustąpić."
+  },
+  "509": {
+    "correct": "c"
+  },
+  "510": {
+    "correct": "b"
+  },
+  "511": {
+    "correct": "c"
+  },
+  "512": {
+    "correct": "c"
+  },
+  "513": {
+    "correct": "a"
+  },
+  "514": {
+    "correct": "c"
+  },
+  "515": {
+    "correct": "b"
+  },
+  "516": {
+    "correct": "a"
+  },
+  "517": {
+    "correct": "c"
+  },
   "518": {
     "correct": "a"
   },
