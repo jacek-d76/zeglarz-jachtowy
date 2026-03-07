@@ -1667,6 +1667,52 @@
   "536": {
     "correct": "c"
   },
+  "537": {
+    "correct": "a"
+  },
+  "538": {
+    "correct": "a"
+  },
+  "539": {
+    "correct": "a"
+  },
+  "540": {
+    "correct": "b"
+  },
+  "541": {
+    "correct": "b"
+  },
+  "542": {
+    "correct": "a"
+  },
+  "543": {
+    "correct": "c"
+  },
+  "544": {
+    "correct": "b"
+  },
+  "545": {
+    "correct": "b"
+  },
+  "546": {
+    "correct": "c",
+    "explanation": "Zgodnie z przepisami i dobrą praktyką żeglarską, to prowadzący jednostkę (kapitan, sternik) ponosi pełną odpowiedzialność za bezpieczeństwo jachtu oraz wszystkich osób na pokładzie. W sytuacji zagrożenia życia, jaką jest „człowiek za burtą”, to on musi:\nPodjąć decyzję o rozpoczęciu manewru ratowniczego.\nWydać jasne komendy załodze.\nNadzorować akcję aż do skutecznego podjęcia rozbitka.\nOczywiście w sprawnie działającej załodze wszyscy biorą udział w akcji (opcja A), wykonując polecenia, ale to na prowadzącym spoczywa prawna i służbowa odpowiedzialność za jej przebieg i wynik."
+  },
+  "547": {
+    "correct": "c"
+  },
+  "548": {
+    "correct": "b"
+  },
+  "549": {
+    "correct": "b"
+  },
+  "550": {
+    "correct": "a"
+  },
+  "551": {
+    "correct": "c"
+  },
   "785": {
     "correct": "a"
   },
