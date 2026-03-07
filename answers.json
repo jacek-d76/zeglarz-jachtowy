@@ -1375,6 +1375,38 @@
   "443": {
     "correct": "b"
   },
+  "444": {
+    "correct": "c"
+  },
+  "445": {
+    "correct": "c"
+  },
+  "446": {
+    "correct": "a"
+  },
+  "447": {
+    "correct": "c",
+    "explanation": "Według przepisów żeglugowych stan statku dzieli się na dwa główne rodzaje: „w drodze” oraz „na postoju”. Aby jednostka była uznana za stojącą na postoju, musi mieć stałe połączenie z dnem lub lądem, które uniemożliwia jej swobodne przemieszczanie się z prądem lub wiatrem."
+  },
+  "448": {
+    "correct": "c"
+  },
+  "449": {
+    "correct": "b",
+    "explanation": "W tradycyjnym systemie wachtowym czas odmierza się w cyklach 4-godzinnych, a każda godzina to dwie „szklanki” (uderzenia w dzwon). Cykl dla godziny 15.00 wygląda następująco:\n12.00 – 8 szklanek (koniec poprzedniej wachty)\n13.00 – 2 szklanki\n14.00 – 4 szklanki\n15.00 – 6 uderzeń, czyli 3 pary (szklanki)\nZasada jest prosta: co pół godziny wybija się jedno uderzenie, a co godzinę parę. O godzinie 15.00 (czyli 3 godziny po rozpoczęciu wachty o 12.00) mamy 6 uderzeń, co żeglarze nazywają wybiciem trzech szklanek."
+  },
+  "450": {
+    "correct": "c"
+  },
+  "451": {
+    "correct": "b"
+  },
+  "452": {
+    "correct": "c"
+  },
+  "453": {
+    "correct": "c"
+  },
   "518": {
     "correct": "a"
   },
