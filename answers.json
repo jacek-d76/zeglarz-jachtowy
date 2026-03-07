@@ -1422,6 +1422,53 @@
   "458": {
     "correct": "c"
   },
+  "459": {
+    "correct": "a"
+  },
+  "460": {
+    "correct": "b"
+  },
+  "461": {
+    "correct": "b"
+  },
+  "462": {
+    "correct": "a"
+  },
+  "463": {
+    "correct": "c",
+    "explanation": "Zgodnie z przepisami żeglugi śródlądowej, w miejscach zwężeń (takich jak mosty czy śluzy), gdzie wyminięcie się jednostek jest niemożliwe lub utrudnione, pierwszeństwo ma statek płynący z prądem wody (w dół rzeki).\nWynika to z logiki bezpieczeństwa:\nStatek płynący w dół ma znacznie mniejszą sterowność i trudniej mu się zatrzymać lub manewrować, ponieważ prąd „pcha” go w stronę przeszkody.\nStatek płynący pod prąd może łatwiej utrzymać pozycję w miejscu lub wyhamować, wykorzystując opór wody"
+  },
+  "464": {
+    "correct": "b"
+  },
+  "465": {
+    "correct": "a"
+  },
+  "466": {
+    "correct": "b"
+  },
+  "467": {
+    "correct": "c"
+  },
+  "468": {
+    "correct": "a"
+  },
+  "469": {
+    "correct": "a"
+  },
+  "470": {
+    "explanation": "W nocy identyfikacja kierunku płynięcia innej jednostki opiera się na kolorach świateł burtowych oraz świetle masztowym (topowym):\nPrawa burta: Widzisz światło zielone (burtowe) oraz światło białe (masztowe).\nLewa burta: Widziałbyś światło czerwone (burtowe) oraz światło białe (masztowe).\nRufa (tył): Widziałbyś tylko pojedyncze światło białe (rufowe).\nDziób (płynie na Ciebie): Widziałbyś oba światła burtowe (czerwone i zielone) oraz białe światło masztowe powyżej nich.\n",
+    "correct": "c"
+  },
+  "471": {
+    "correct": "c"
+  },
+  "472": {
+    "correct": "a"
+  },
+  "473": {
+    "correct": "c"
+  },
   "518": {
     "correct": "a"
   },
