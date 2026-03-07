@@ -1518,6 +1518,53 @@
   "488": {
     "correct": "a"
   },
+  "489": {
+    "correct": "b"
+  },
+  "490": {
+    "correct": "a"
+  },
+  "491": {
+    "correct": "a"
+  },
+  "492": {
+    "correct": "a",
+    "explanation": "Przepływanie obok Westerplatte to szczególny moment dla każdego żeglarza w Polsce. Zgodnie z etykietą jachtową i tradycją morską, oddanie salutu banderą jest wyrazem szacunku dla miejsca pamięci narodowej oraz poległych obrońców Wybrzeża.\nJak prawidłowo wykonać ten manewr?\nPrzygotowanie: Wyznacza się osobę do obsługi linki bandery (jeśli bandera jest na gafel-piku) lub wyjęcia flagsztoku.\nWykonanie: W momencie mijania pomnika, banderę opuszcza się do 1/3 wysokości (lub pochyla flagsztok pod kątem 45 stopni), chwilę przytrzymuje w tej pozycji, a następnie powoli podnosi z powrotem.\nPostawa: Załoga w tym czasie powinna zachować powagę i spokój na pokładzie"
+  },
+  "493": {
+    "correct": "b"
+  },
+  "494": {
+    "correct": "a",
+    "explanation": "Przenośnik nawigacyjny to specyficzny rodzaj cyrkla, który zamiast rysika (grafitu) posiada dwie ostre igły. Służy on do:\nOdmierzania odległości na bocznej podziałce mapy i przenoszenia ich na wytyczoną trasę.\nOdczytywania współrzędnych geograficznych punktów (szerokości i długości).\nKroczenia po mapie (odmierzania odcinków o stałej długości, np. 1 mili morskiej).\nW przeciwieństwie do zwykłego cyrkla szkolnego, przenośnik nawigacyjny jest zazwyczaj wykonany z mosiądzu lub stali nierdzewnej i posiada charakterystyczny kształt ułatwiający obsługę jedną ręką."
+  },
+  "495": {
+    "correct": "b"
+  },
+  "496": {
+    "correct": "b"
+  },
+  "497": {
+    "correct": "c"
+  },
+  "498": {
+    "correct": "b"
+  },
+  "499": {
+    "correct": "a"
+  },
+  "500": {
+    "correct": "a"
+  },
+  "501": {
+    "correct": "b"
+  },
+  "502": {
+    "correct": "a"
+  },
+  "503": {
+    "correct": "a"
+  },
   "518": {
     "correct": "a"
   },
