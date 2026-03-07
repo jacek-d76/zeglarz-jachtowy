@@ -1342,6 +1342,39 @@
     "correct": "b",
     "explanation": "Kluczowe zasady wyprzedzania:\nObowiązek ustąpienia (A): Jacht wyprzedzający musi trzymać się z dala od drogi jachtu wyprzedzanego, dopóki całkowicie go nie minie i nie oddali się na bezpieczną odległość.\nBrak zmiany statusu: Nawet jeśli jacht wyprzedzający płynie na żaglach, a wyprzedzany na silniku – w tej konkretnej sytuacji wyprzedzany zachowuje pierwszeństwo.\nKurs i prędkość: Jacht wyprzedzany powinien w miarę możliwości utrzymywać swój kurs i prędkość, aby nie utrudniać manewru jednostce wyprzedzającej (chyba że sytuacja wymaga uniknięcia zderzenia)."
   },
+  "434": {
+    "correct": "c"
+  },
+  "435": {
+    "correct": "b"
+  },
+  "436": {
+    "correct": "c",
+    "explanation": "W żegludze śródlądowej hierarchia pierwszeństwa opiera się na zdolności manewrowej jednostki. Im trudniej jest danym typem napędu wykonać nagły manewr, tym większy ma on przywilej.\nZasada wygląda następująco:\nStatek wiosłowy – ma największe pierwszeństwo, ponieważ jego napęd zależy wyłącznie od siły ludzkich mięśni i jest najmniej wydajny w sytuacjach awaryjnych.\nStatek żaglowy – ustępuje wiosłowemu, ale ma pierwszeństwo przed motorowym (zależy od kaprysów wiatru).\nStatek o napędzie mechanicznym (motorowy) – jest najbardziej sterowny i niezależny od warunków zewnętrznych, dlatego musi ustąpić pozostałym."
+  },
+  "437": {
+    "correct": "a"
+  },
+  "438": {
+    "correct": "b"
+  },
+  "439": {
+    "explanation": "Zgodnie z Międzynarodowymi Przepisami o Zapobieganiu Zderzeniom na Morzu (MPZZM) oraz przepisami śródlądowymi, statki o napędzie mechanicznym będące w drodze, widząc się wzajemnie, sygnalizują swoje manewry kursowe za pomocą krótkich dźwięków (trwających około 1 sekundy):\n1 krótki dźwięk: „Zmieniam swój kurs w prawo”.\n2 krótkie dźwięki: „Zmieniam swój kurs w lewo”.\n3 krótkie dźwięki: „Moje maszyny pracują wstecz”",
+    "correct": "a"
+  },
+  "440": {
+    "explanation": "Poprawna odpowiedź to C: 1 krótki, 1 długi i 2 krótkie dźwięki.\nTen specyficzny sygnał (kod Morse'a: • — • •, czyli litera L) jest używany na drogach śródlądowych przez statki organów kontrolnych (np. Policję, Straż Graniczną lub służby ratownicze), aby nakazać innej jednostce natychmiastowe zatrzymanie się.",
+    "correct": "c"
+  },
+  "441": {
+    "correct": "c"
+  },
+  "442": {
+    "correct": "a"
+  },
+  "443": {
+    "correct": "b"
+  },
   "518": {
     "correct": "a"
   },
