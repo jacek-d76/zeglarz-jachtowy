@@ -1713,6 +1713,54 @@
   "551": {
     "correct": "c"
   },
+  "552": {
+    "correct": "a"
+  },
+  "553": {
+    "correct": "b"
+  },
+  "554": {
+    "correct": "b"
+  },
+  "555": {
+    "correct": "c"
+  },
+  "556": {
+    "correct": "a",
+    "explanation": " Nawietrzna (A): Rzucając koło od strony, z której wieje wiatr względem rozbitka, sprawiasz, że wiatr będzie spychał koło wprost na człowieka. Dzięki temu poszkodowany ma większą szansę na jego pochwycenie, nawet jeśli rzut nie był idealnie celny"
+  },
+  "557": {
+    "correct": "b",
+    "explanation": "Bezpieczeństwo wewnątrz (A): Nigdy nie zakładaj pasa ratunkowego pod pokładem (w kabinie). Jeśli jacht zacznie szybko tonąć lub wywróci się do góry dnem, wyporność pasa uwięzi Cię pod sufitem, uniemożliwiając wypłynięcie przez luk lub zejściówkę.\nSzybkość i kontrola (B): Na pokładzie masz przestrzeń do prawidłowego zapięcia wszystkich klamer i troków pod nadzorem innych członków załogi. W razie nagłego wypadnięcia za burtę jesteś już w pełni chroniony.\nTrudność w wodzie (C): Próba założenia pasywnego pasa ratunkowego w wodzie, zwłaszcza przy fali, silnym wietrze i w ubraniu, jest skrajnie trudna, wyczerpująca i często kończy się niepowodzeniem"
+  },
+  "558": {
+    "correct": "a"
+  },
+  "559": {
+    "correct": "c"
+  },
+  "560": {
+    "correct": "a"
+  },
+  "561": {
+    "correct": "b",
+    "explanation": "W przypadku pożaru na dziobie, musisz ustawić jacht tak, aby wiatr wiejący od rufy spychał płomienie i dym przed dziob, z dala od reszty jednostki i załogi znajdującej się w kokpicie"
+  },
+  "562": {
+    "correct": "a"
+  },
+  "563": {
+    "correct": "a"
+  },
+  "564": {
+    "correct": "c"
+  },
+  "565": {
+    "correct": "b"
+  },
+  "566": {
+    "correct": "b"
+  },
   "785": {
     "correct": "a"
   },
