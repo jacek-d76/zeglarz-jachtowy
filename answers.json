@@ -1897,6 +1897,53 @@
   "611": {
     "correct": "b"
   },
+  "612": {
+    "correct": "c"
+  },
+  "613": {
+    "correct": "b"
+  },
+  "614": {
+    "correct": "c"
+  },
+  "615": {
+    "correct": "c"
+  },
+  "616": {
+    "correct": "a"
+  },
+  "617": {
+    "correct": "a"
+  },
+  "618": {
+    "correct": "c"
+  },
+  "619": {
+    "correct": "b",
+    "explanation": "Choć standardowa resuscytacja (np. przy zawale) zaczyna się od uciśnięć (30:2), to w przypadku utonięcia kluczowa jest specyfika zdarzenia:\nPrzyczyna niedotlenienia: W utonięciu zatrzymanie krążenia jest skutkiem braku tlenu (niedotlenienia), a nie pierwotnej choroby serca.\n5 oddechów ratowniczych: Wytyczne Europejskiej Rady Resuscytacji nakazują rozpoczęcie od 5 wstępnych wdechów życia, aby jak najszybciej dostarczyć tlen do płuc i krwi. Dopiero po nich przechodzimy do cyklu 30 uciśnięć i 2 wdechów."
+  },
+  "620": {
+    "correct": "b"
+  },
+  "621": {
+    "correct": "b"
+  },
+  "622": {
+    "correct": "b"
+  },
+  "623": {
+    "correct": "a"
+  },
+  "624": {
+    "correct": "b",
+    "explanation": "To kluczowa zasada bezpieczeństwa przy obsłudze instalacji gazowych na jachcie, szczególnie w sytuacji awaryjnej:\nWypalenie gazu: Zakręcenie najpierw zaworu na butli powoduje, że gaz znajdujący się w przewodzie (wężu) doprowadzającym zostaje wypalony lub uchodzi bezpiecznie. Dzięki temu w instalacji między butlą a kuchenką nie zostaje paliwo, które mogłoby podtrzymywać ogień lub wyciekać w razie uszkodzenia węża.\nOdcięcie źródła: Butla jest głównym zbiornikiem paliwa. Jej odcięcie w pierwszej kolejności gwarantuje, że pożar nie rozprzestrzeni się na instalację i nie dojdzie do wybuchu."
+  },
+  "625": {
+    "correct": "b"
+  },
+  "626": {
+    "correct": "b"
+  },
   "785": {
     "correct": "a"
   },
