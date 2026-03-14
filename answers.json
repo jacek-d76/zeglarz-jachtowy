@@ -1851,6 +1851,52 @@
   "596": {
     "correct": "a"
   },
+  "597": {
+    "correct": "a"
+  },
+  "598": {
+    "correct": "a",
+    "explanation": "Jest to złota zasada unieruchamiania przy złamaniach (tzw. reguła Potta):\nStabilizacja: Aby odłamki złamanej kości nie przemieszczały się i nie uszkadzały mięśni, naczyń krwionośnych czy nerwów, należy wyłączyć ruchomość w stawie powyżej i poniżej miejsca złamania.\nPrzykład: Jeśli doszło do złamania kości przedramienia, należy unieruchomić staw nadgarstkowy oraz staw łokciowy.\n"
+  },
+  "599": {
+    "correct": "b"
+  },
+  "600": {
+    "correct": "a"
+  },
+  "601": {
+    "correct": "c"
+  },
+  "602": {
+    "correct": "b"
+  },
+  "603": {
+    "correct": "a"
+  },
+  "604": {
+    "correct": "c"
+  },
+  "605": {
+    "correct": "b"
+  },
+  "606": {
+    "correct": "b"
+  },
+  "607": {
+    "correct": "a"
+  },
+  "608": {
+    "correct": "b"
+  },
+  "609": {
+    "correct": "a"
+  },
+  "610": {
+    "correct": "a"
+  },
+  "611": {
+    "correct": "b"
+  },
   "785": {
     "correct": "a"
   },
