@@ -2033,6 +2033,53 @@
   "655": {
     "correct": "a"
   },
+  "656": {
+    "correct": "a",
+    "explanation": "Aby zrównoważyć jacht zawietrzny (taki, który ma tendencję do samoczynnego odpadania od wiatru), należy przesunąć środek ożaglowania do tyłu. Można to osiągnąć poprzez zwiększenie powierzchni żagli znajdujących się w tylnej części jachtu (np. grota) lub zmniejszenie powierzchni żagli przednich (np. foka)"
+  },
+  "657": {
+    "correct": "c"
+  },
+  "658": {
+    "correct": "a",
+    "explanation": "Wiatr pozorny to ten, który faktycznie czujesz na pokładzie płynącego jachtu. Jest on wynikiem nałożenia się dwóch sił:\nWiatru rzeczywistego – czyli naturalnego ruchu mas powietrza względem lądu/wody.\nWiatru własnego (pędu) – czyli podmuchu, który powstaje w wyniku ruchu jachtu (zawsze wieje prosto z dziobu z prędkością, z jaką płyniesz).\nSkładając te dwa wektory, otrzymujemy wiatr pozorny, do którego ustawiamy żagle."
+  },
+  "659": {
+    "correct": "b"
+  },
+  "660": {
+    "correct": "c"
+  },
+  "661": {
+    "correct": "b"
+  },
+  "662": {
+    "correct": "a"
+  },
+  "663": {
+    "correct": "b"
+  },
+  "664": {
+    "correct": "b"
+  },
+  "665": {
+    "correct": "c"
+  },
+  "666": {
+    "correct": "a"
+  },
+  "667": {
+    "correct": "c"
+  },
+  "668": {
+    "correct": "a"
+  },
+  "669": {
+    "correct": "a"
+  },
+  "670": {
+    "correct": "a"
+  },
   "785": {
     "correct": "a"
   },
