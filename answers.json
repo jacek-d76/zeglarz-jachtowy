@@ -2174,6 +2174,54 @@
   "700": {
     "correct": "a"
   },
+  "701": {
+    "correct": "a"
+  },
+  "702": {
+    "correct": "a"
+  },
+  "703": {
+    "correct": "c",
+    "explanation": "Dzieje się tak, ponieważ w kursach ostrych (takich jak bajdewind) prędkości się sumują:\nWiatr pozorny to wypadkowa wiatru rzeczywistego i wiatru własnego (pędu jachtu).\nPłynąc pod wiatr, jacht „zderza się” z cząsteczkami powietrza, co sprawia, że odczuwalna siła wiatru na pokładzie jest znacznie większa niż ta, którą czuje osoba stojąca na brzegu.\n"
+  },
+  "704": {
+    "correct": "b"
+  },
+  "705": {
+    "correct": "c"
+  },
+  "706": {
+    "correct": "a",
+    "explanation": "W żeglarstwie obowiązuje prosta zależność między halsami a położeniem żagli:\nLewy hals oznacza, że wiatr wieje w lewą burtę jachtu (nawietrzną).\nPonieważ wiatr napiera z lewej strony, żagle zostają wypchnięte na stronę przeciwną – czyli na prawą burtę (zawietrzną)."
+  },
+  "707": {
+    "correct": "c"
+  },
+  "708": {
+    "correct": "c"
+  },
+  "709": {
+    "correct": "b"
+  },
+  "710": {
+    "correct": "c"
+  },
+  "711": {
+    "correct": "b",
+    "explanation": "Aby zrównoważyć jacht zawietrzny (taki, który samoczynnie „ucieka” od wiatru), musisz przesunąć wypadkowy środek ożaglowania do tyłu. Możesz to zrobić na dwa sposoby:\nZwiększyć żagiel tylny (grot) – większe parcie wiatru na tył jachtu spowoduje, że dziób zacznie chętniej skręcać w stronę wiatru.\nZmniejszyć żagiel przedni (fok) – efekt będzie taki sam, czyli przesunięcie siły wypadkowej w stronę rufy."
+  },
+  "712": {
+    "correct": "b"
+  },
+  "713": {
+    "correct": "c"
+  },
+  "714": {
+    "correct": "b"
+  },
+  "715": {
+    "correct": "a"
+  },
   "785": {
     "correct": "a"
   },
