@@ -2080,6 +2080,52 @@
   "670": {
     "correct": "a"
   },
+  "671": {
+    "correct": "c"
+  },
+  "672": {
+    "correct": "b"
+  },
+  "673": {
+    "correct": "a"
+  },
+  "674": {
+    "correct": "a"
+  },
+  "675": {
+    "correct": "b",
+    "explanation": "Choć mogłoby się wydawać, że dodatkowy ciężar na dnie jachtu zadziała jak balast, woda w zęzie jest wyjątkowo niebezpieczna ze względu na tzw. efekt powierzchni swobodnej:\nPrzesuwanie się ciężaru: Woda w zęzie nie jest zamocowana na stałe. Gdy jacht złapie choćby niewielki przechył, cała woda natychmiast przelewa się na burtę zawietrzną (tę, która już jest niżej).\nPogłębienie przechyłu: Ten nagły ruch masy wody gwałtownie zwiększa siłę przechylającą, co może doprowadzić do niekontrolowanego pogłębienia przechyłu, a w skrajnych przypadkach – do wywrotki jachtu, której bez wody w środku udałoby się uniknąć."
+  },
+  "676": {
+    "correct": "c"
+  },
+  "677": {
+    "correct": "a"
+  },
+  "678": {
+    "correct": "a"
+  },
+  "679": {
+    "correct": "c"
+  },
+  "680": {
+    "correct": "b"
+  },
+  "681": {
+    "correct": "b"
+  },
+  "682": {
+    "correct": "a"
+  },
+  "683": {
+    "correct": "a"
+  },
+  "684": {
+    "correct": "a"
+  },
+  "685": {
+    "correct": "c"
+  },
   "785": {
     "correct": "a"
   },
