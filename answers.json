@@ -2126,6 +2126,54 @@
   "685": {
     "correct": "c"
   },
+  "686": {
+    "correct": "c"
+  },
+  "687": {
+    "correct": "c",
+    "explanation": "W kursie półwiatr wiatr wieje z boku jachtu, co generuje dużą siłę spychającą jednostkę w bok (dryf). Aby temu przeciwdziałać, musisz zwiększyć opór boczny części podwodnej:\nMaksymalnie opuszczony miecz działa jak kil, stawiając wodzie opór i pozwalając jachtowi płynąć do przodu zamiast przesuwać się bokiem.\nOpuszczona płetwa sterowa zwiększa powierzchnię sterowną i również przyczynia się do stabilizacji kursu."
+  },
+  "688": {
+    "correct": "b",
+    "explanation": "Efektywna powierzchnia: Gdy jacht płynie prosto (bez przechyłu), żagle są ustawione pionowo i cała ich powierzchnia „łapie” wiatr pod optymalnym kątem.\nProfil aerodynamiczny: W dużym przechyle profil żagla ulega deformacji, a wiatr „ślizga się” po nim w górę, zamiast generować siłę napędową.\nBalastowanie: Przenosząc ciężar na burtę nawietrzną, prostujemy jacht. Dzięki temu siła aerodynamiczna jest efektywniej zamieniana na siłę ciągu (ruch do przodu), a nie na siłę przechylającą (spychanie jachtu)."
+  },
+  "689": {
+    "correct": "b"
+  },
+  "690": {
+    "correct": "b"
+  },
+  "691": {
+    "correct": "a"
+  },
+  "692": {
+    "correct": "a"
+  },
+  "693": {
+    "correct": "c",
+    "explanation": "Przebranie żagli oznacza, że są one wybrane (dociągnięte) zbyt mocno w stosunku do kąta, pod jakim wieje wiatr. Powoduje to kilka negatywnych skutków:\nZerwanie strug powietrza: Powietrze przestaje płynnie opływać zawietrzną stronę żagla, co drastycznie zmniejsza siłę ciągu (napędową).\nWzrost oporu: Żagiel zaczyna działać bardziej jak hamulec niż jak skrzydło.\nZwiększenie przechyłu i dryfu: Zamiast zamieniać energię wiatru na ruch do przodu, jacht zaczyna mocniej kłaść się na burtę i \"ślizgać\" bokiem."
+  },
+  "694": {
+    "correct": "a"
+  },
+  "695": {
+    "correct": "b"
+  },
+  "696": {
+    "correct": "b"
+  },
+  "697": {
+    "correct": "c"
+  },
+  "698": {
+    "correct": "c"
+  },
+  "699": {
+    "correct": "b"
+  },
+  "700": {
+    "correct": "a"
+  },
   "785": {
     "correct": "a"
   },
