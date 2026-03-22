@@ -2278,6 +2278,66 @@
     "explanation": "Poprawna odpowiedź to A: podnieść płetwę mieczową.\nOto dlaczego to działa:\n✅ Opcja A (podnieść miecz): W kursach pełnych (takich jak baksztag) jacht ma mniejszą tendencję do dryfu bocznego niż w bajdewindzie. Podniesienie miecza (częściowe lub całkowite) znacznie zmniejsza opór hydrodynamiczny kadłuba, co pozwala jachtowi płynąć szybciej.\n❌ Opcja B (podnieść ster): Płetwa sterowa jest niezbędna do utrzymania kursu. Jej podniesienie uniemożliwiłoby precyzyjne sterowanie i byłoby niebezpieczne.\n❌ Opcja C (przegłębić dziób): Obciążenie dziobu zazwyczaj zwiększa opory wody i pogarsza sterowność (jacht staje się „nawietrzny” lub ryje w falę), co spowalnia jednostkę.",
     "correct": "a"
   },
+  "731": {
+    "correct": "c",
+    "explanation": "Poprawna odpowiedź to C: stateczność jachtu.\nStateczność to cecha konstrukcyjna, która sprawia, że po ustąpieniu siły powodującej przechył (np. nagłego podmuchu wiatru), jacht samoczynnie wraca do pionu. Wyróżniamy stateczność kształtu (zależną od szerokości kadłuba) oraz ciężaru (zależną od balastu)."
+  },
+  "732": {
+    "correct": "b",
+    "explanation": "Poprawna odpowiedź to B: środek ciężkości nad środkiem wyporu.\nJachty o stateczności kształtu (zazwyczaj szerokie jednostki mieczowe) zawdzięczają swoją stabilność szerokości kadłuba i specyficznemu profilowi podwodnej części. W takich konstrukcjach:\nŚrodek ciężkości (\n) znajduje się stosunkowo wysoko (nad środkiem wyporu \n).\nPodczas przechyłu, dzięki szerokości kadłuba, środek wyporu (\n) przesuwa się gwałtownie na burtę zawietrzną, tworząc ramię momentu prostującego, które \"wypycha\" jacht z powrotem do pionu.\nDla porównania, opcje A i C opisują jachty o stateczności ciężaru (balastowe), gdzie ciężki kil umieszczony nisko pod wodą działa jak przeciwwaga, utrzymując środek ciężkości bardzo nisko.\nCzy chcesz dowiedzieć się, co to jest kąt zalania i dlaczego jest tak ważny dla bezpieczeństwa jachtów mieczowych?"
+  },
+  "733": {
+    "correct": "b",
+    "explanation": "Poprawna odpowiedź to B: nawietrzność jachtu.\nDzieje się tak, ponieważ siła wiatru działająca na żagle (skupiona w środku ożaglowania) pcha rufę jachtu w bok bardziej niż dziób. W rezultacie jacht ma naturalną tendencję do samoistnego skręcania w stronę wiatru (ostrzenia).\nOto krótka analiza:\nNawietrzność (B): Środek ożaglowania znajduje się za środkiem bocznego oporu. Jacht „chce” płynąć pod wiatr.\nZawietrzność (A): Sytuacja odwrotna – środek ożaglowania jest przed środkiem bocznego oporu. Jacht samoczynnie odpada od wiatru.\nPrzechył (C): Jest efektem działania siły bocznej na żagle, ale jego skala zależy od siły wiatru i balastowania, a nie bezpośrednio od wzajemnego przesunięcia tych dwóch punktów wzdłuż osi jachtu."
+  },
+  "734": {
+    "correct": "a",
+    "explanation": "Poprawna odpowiedź to A: zawietrzność jachtu.\nGdy środek ożaglowania (punkt przyłożenia siły wiatru) znajduje się przed środkiem bocznego oporu (punktem obrotu jachtu w wodzie), wiatr naciska silniej na przednią część jednostki. Powoduje to, że dziób jachtu ma naturalną tendencję do samoczynnego oddalania się od linii wiatru, czyli odpadania.\nW skrócie:\nZawietrzność (A): Jacht \"ucieka\" od wiatru (środek ożaglowania z przodu).\nNawietrzność (B): Jacht \"pcha się\" na wiatr (środek ożaglowania z tyłu).\nDryf (C): To boczne znoszenie jachtu pod wpływem wiatru, niezależne od wzajemnego położenia tych dwóch punktów."
+  },
+  "735": {
+    "correct": "a",
+    "explanation": "Poprawna odpowiedź to A: nawietrzne.\nOto krótkie zestawienie tych cech:\n✅ Nawietrzność (A): Jacht samoczynnie „pcha się” na wiatr (ostrzy). Wymaga to od sternika stałego kontrowania sterem (odpychania rumpla od siebie), co jest typową i zazwyczaj bezpieczną cechą większości jachtów.\n❌ Zawietrzność (B): Jacht samoczynnie ucieka od wiatru (odpada). Jest to cecha uznawana za niebezpieczną, ponieważ w razie puszczenia steru jacht nie zatrzyma się, lecz będzie nabierał prędkości, odpadając od linii wiatru.\n❌ Zrównoważenie (C): Jacht płynie prosto po puszczeniu steru. Jest to stan idealny, ale trudny do utrzymania przy zmieniającej się sile wiatru i przechyle."
+  },
+  "736": {
+    "correct": "b",
+    "explanation": "Poprawna odpowiedź to B: zawietrzne.\nTakie jachty mają tendencję do samoistnego oddalania się od linii wiatru (odpadania), co w żeglarstwie uznaje się za cechę niebezpieczną. W razie awarii urządzenia sterowego lub wypuszczenia rumpla z rąk, jacht zamiast stanąć w linii wiatru i wyhamować, będzie nabierał prędkości, uciekając od wiatru.\nW skrócie:\nNawietrzne (A): Same ostrzą (idą na wiatr).\nZawietrzne (B): Same odpadają (uciekają od wiatru).\nZrównoważone (C): Trzymają kurs bez ingerencji sternika."
+  },
+  "737": {
+    "correct": "b",
+    "explanation": "Poprawna odpowiedź to B: płetwa sterowa wychyla się do prawej burty.\nOto prosta zasada działania steru przy ruchu naprzód:\n✅ Opcja B (płetwa w prawo): Woda uderza w wychyloną płetwę, spychając rufę w lewo. Ponieważ jacht obraca się wokół środka obrotu (zazwyczaj w okolicach miecza), dziób skręca w prawo.\n❌ Opcja A (płetwa w lewo): Powoduje spychanie rufy w prawo, a co za tym idzie – skręt dziobu w lewo.\n❌ Opcja C (pozycja „zero”): Jacht płynie prosto (chyba że działają na niego inne siły, np. wiatr)."
+  },
+  "738": {
+    "correct": "a",
+    "explanation": "Poprawna odpowiedź to A: płetwa sterowa wychyla się do lewej burty.\nPrzy ruchu wstecz zasada działania steru jest odwrotna w stosunku do ruchu naprzód:\n✅ Opcja A (płetwa w lewo): Woda naciera na płetwę od tyłu, spychając rufę w prawo. W rezultacie jacht obraca się tak, że jego dziób skręca w prawo.\n❌ Opcja B (płetwa w prawo): Napór wody spycha rufę w lewo, co powoduje, że dziób skręca w lewo.\n❌ Opcja C (pozycja „zero”): Jacht powinien płynąć prosto do tyłu (choć w praktyce często zbacza z kursu przez działanie wiatru lub śruby silnika)."
+  },
+  "739": {
+    "correct": "c",
+    "explanation": "Poprawna odpowiedź to C: zwrotnością.\nZwrotność określa, jak łatwo i na jak małej przestrzeni jacht jest w stanie zmienić swój kierunek. Zależy ona przede wszystkim od długości kadłuba (krótsze jachty są zazwyczaj zwrotniejsze), kształtu płetwy sterowej oraz położenia środka bocznego oporu.\nDla przypomnienia:\nStateczność (A) to zdolność do powrotu do pionu po przechyle.\nNawietrzność (B) to tendencja jachtu do samoistnego ostrzenia na wiatr."
+  },
+  "740": {
+    "correct": "c",
+    "explanation": "Poprawna odpowiedź to C: strony, w którą ma skręcić dziób jachtu (przy poruszaniu się jachtu w przód lub w tył).\nW żeglarstwie komendy sterowe (np. „prawo ster” lub „lewo ster”) zawsze odnoszą się do kierunku, w którym ma się zwrócić dziób jednostki. Jest to uniwersalna zasada, która pozwala uniknąć pomyłek, niezależnie od tego, czy jacht jest sterowany rumplem (gdzie ruch jest przeciwstawny do wychylenia płetwy), czy kołem sterowym.\n✅ Opcja C: Jeśli sternik słyszy „prawo ster”, ma doprowadzić do tego, by dziób skręcił w prawo.\n❌ Opcja A i B: Odnoszą się do technicznego sposobu wykonania manewru, który może się różnić w zależności od konstrukcji układu sterowego.\n"
+  },
+  "741": {
+    "correct": "a",
+    "explanation": "Poprawna odpowiedź to A: na trawersie lewej burty.\nPojęcie trawers określa kierunek prostopadły do osi podłużnej (diametralnej) jachtu. Skoro obiekt jest widoczny pod kątem prostym po lewej stronie, znajduje się on właśnie na lewym trawersie."
+  },
+  "742": {
+    "correct": "c",
+    "explanation": "Poprawna odpowiedź to C: bajdewindem.\nKurs bajdewind mieści się w przedziale między kątem martwym (w którym żagle nie pracują) a kursem prostopadłym do wiatru (półwiatrem, czyli wiatrem wiejącym prosto w trawers).\n✅ Bajdewind (C): Wiatr wieje „od skosu” z przodu.\n❌ Półwiatr (B): Wiatr wieje dokładnie w trawers (pod kątem prostym do osi jachtu).\n❌ Baksztag (A): Wiatr wieje „od skosu” z tyłu (pomiędzy trawersem a rufą)."
+  },
+  "743": {
+    "correct": "c",
+    "explanation": "Poprawna odpowiedź to C: nie wykazuje tendencji do skrętu.\nJacht zrównoważony to taki, w którym wypadkowa siła aerodynamiczna (na żaglach) i wypadkowa siła hydrodynamiczna (na kadłubie i mieczu) działają w tej samej linii pionowej. Dzięki temu:\nJacht płynie prosto po puszczeniu steru.\nSternik nie musi wkładać siły w trzymanie rumpla, co zmniejsza opory płetwy sterowej i pozwala osiągać większe prędkości."
+  },
+  "744": {
+    "correct": "a",
+    "explanation": "Poprawna odpowiedź to A: wzrostem prędkości jachtu.\nSprawność steru zależy od siły naporu wody na płetwę sterową. Im szybciej jacht porusza się względem wody, tym większa masa wody uderza o wychyloną płetwę w jednostce czasu. Powoduje to, że:\nSzybkość reakcji: Jacht niemal natychmiast reaguje na najmniejszy ruch rumpla.\nPrecyzja: Nawet niewielkie wychylenie steru generuje wystarczającą siłę skręcającą, by zmienić kurs.\nSterowność: Przy bardzo małych prędkościach (tzw. prędkościach manewrowych) jacht „słucha się” steru znacznie gorzej, a po zatrzymaniu całkowicie traci sterowność."
+  },
+  "745": {
+    "correct": "c",
+    "explanation": "Poprawna odpowiedź to C: wzrastają obie składowe siły naporu wody.\nGdy wychylasz ster, woda uderza w płetwę z większą siłą, co powoduje rozkład tej siły na dwa efekty:\nSiła skręcająca: Powoduje obrót jachtu (spycha rufę w bok).\nSiła hamująca: Działa przeciwnie do kierunku płynięcia, stawiając opór i spowalniając jacht.\nWarto pamiętać, że powyżej pewnego kąta (zwykle 35–45 stopni) siła hamująca rośnie drastycznie, a siła skręcająca przestaje wydajnie działać z powodu zerwania strug wody (tzw. przeciągnięcie na sterze)."
+  },
   "785": {
     "correct": "a"
   },
