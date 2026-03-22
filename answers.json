@@ -2338,6 +2338,66 @@
     "correct": "c",
     "explanation": "Poprawna odpowiedź to C: wzrastają obie składowe siły naporu wody.\nGdy wychylasz ster, woda uderza w płetwę z większą siłą, co powoduje rozkład tej siły na dwa efekty:\nSiła skręcająca: Powoduje obrót jachtu (spycha rufę w bok).\nSiła hamująca: Działa przeciwnie do kierunku płynięcia, stawiając opór i spowalniając jacht.\nWarto pamiętać, że powyżej pewnego kąta (zwykle 35–45 stopni) siła hamująca rośnie drastycznie, a siła skręcająca przestaje wydajnie działać z powodu zerwania strug wody (tzw. przeciągnięcie na sterze)."
   },
+  "746": {
+    "correct": "c",
+    "explanation": "Poprawna odpowiedź to C: przesunięcie środka ciężkości na burtę nawietrzną.\nOto wyjaśnienie, dlaczego jest to skuteczne działanie:\n✅ Opcja C (balastowanie): Przesunięcie masy (załogi) na burtę nawietrzną zwiększa odległość między środkiem ciężkości a środkiem wyporu. Tworzy to większy moment prostujący, który bezpośrednio przeciwdziała sile przechylającej wiatr i pomaga utrzymać jacht w pionie. \nSztorm Grupa\nSztorm Grupa\n +1\n❌ Opcja A (wybranie żagli): To działanie zazwyczaj zwiększa siłę przechylającą (zwłaszcza w kursach ostrych), co pogarsza sytuację, zamiast ją poprawiać.\n❌ Opcja B (załoga pod pokład): Choć obniżenie środka ciężkości jest korzystne dla stateczności, wysłanie załogi pod pokład (gdzie zazwyczaj znajdują się bliżej osi jachtu) jest mniej efektywne niż aktywne balastowanie na samej krawędzi nawietrznej burty.\n"
+  },
+  "747": {
+    "correct": "c",
+    "explanation": "Poprawna odpowiedź to C: fordewindem.\nW terminologii żeglarskiej kursy dzielimy na ostre i pełne. „Pełność” kursu określa, jak bardzo jacht jest skierowany „z wiatrem”.\nOto ranking wymienionych kursów od najostrzejszego do najpełniejszego:\nBajdewind (A): Kurs ostry, jacht płynie pod kątem w stronę wiatru.\nBaksztag (B): Kurs pełny, wiatr wieje ukośnie od rufy.\nFordewind (C): Kurs najpełniejszy, wiatr wieje prosto w rufę (zgodnie z kierunkiem ruchu jachtu)."
+  },
+  "748": {
+    "correct": "c",
+    "explanation": "Poprawna odpowiedź to C: rzeczywisty.\nOto proste wyjaśnienie różnic:\n✅ Wiatr rzeczywisty (C): To ruch mas powietrza względem nieruchomego punktu na ziemi. To właśnie ten wiatr czujesz, stojąc na brzegu lub na zakotwiczonym jachcie.\n❌ Wiatr własny (B): Powstaje w wyniku ruchu jachtu. Ma taką samą prędkość jak jacht, ale przeciwny zwrot (to „pęd powietrza”, który czujesz np. jadąc rowerem w bezwietrzny dzień).\n❌ Wiatr pozorny (A): To wypadkowa wiatru rzeczywistego i własnego. Jest to wiatr, który „widzą” żagle płynącego jachtu i to do niego je ustawiamy."
+  },
+  "749": {
+    "correct": "b",
+    "explanation": "Poprawna odpowiedź to B: siła przechylająca.\nCałkowita siła aerodynamiczna powstająca na żaglach rozkłada się na dwie główne składowe:\nSiła ciągu (użyteczna): Działa wzdłuż osi jachtu i pcha go do przodu.\nSiła przechylająca (pasożytnicza): Działa prostopadle do osi jachtu, powodując jego przechył oraz dryf boczny."
+  },
+  "750": {
+    "correct": "a",
+    "explanation": "Poprawna odpowiedź to A: zmiana kursu na kurs bliżej fordewindu.\nW żeglarstwie terminy te odnoszą się do zmiany kąta jachtu względem wiatru:\n✅ Odpadanie (A): To manewr polegający na skierowaniu dziobu jachtu dalej od linii wiatru, czyli w stronę kursów pełniejszych (półwiatr \n baksztag \n fordewind). Podczas odpadania zwiększa się kąt między osią jachtu a kierunkiem, z którego wieje wiatr, co wymaga luzowania żagli. \nBLUEBINGO.PL\nBLUEBINGO.PL\n +1\n❌ Ostrzenie (B): To proces odwrotny – zmiana kursu bliżej linii wiatru (czyli w stronę kąta martwego). Wymaga to wybierania żagli. \nBLUEBINGO.PL\nBLUEBINGO.PL\n❌ Zwiększanie przechyłu (C): Przechył jest skutkiem sił działających na jacht (siły przechylającej), a nie definicją manewru zmiany kursu. Co więcej, przy prawidłowej pracy żaglami, podczas odpadania przechył zazwyczaj maleje."
+  },
+  "751": {
+    "correct": "b",
+    "explanation": "Poprawna odpowiedź to B: przeciwdziała dryfowi.\nSiła oporu bocznego to składowa siły hydrodynamicznej, która powstaje na podwodnej części jachtu (głównie na mieczu lub kilu oraz płetwie sterowej). Jej zadaniem jest zrównoważenie bocznego parcia wiatru na żagle, dzięki czemu jacht płynie do przodu, a nie tylko „ślizga się” bokiem.\nDlaczego pozostałe odpowiedzi są błędne?\n❌ Opcja A: Siła aerodynamiczna powstaje na żaglach (w powietrzu), a opór boczny w wodzie.\n❌ Opcja C: Opór boczny jest reakcją na siłę przechylającą (składową poprzeczną), a nie na siłę ciągu (składową wzdłużną)."
+  },
+  "752": {
+    "correct": "b",
+    "explanation": "Poprawna odpowiedź to B: większy od wiatru rzeczywistego.\nW kursie bajdewind jacht porusza się „pod wiatr”, co sprawia, że prędkość wiatru rzeczywistego i prędkość własna jachtu sumują się wektorowo pod ostrym kątem. W efekcie:\n✅ Wiatr pozorny (B) – czyli ten, który rzeczywiście napędza żagle – jest silniejszy (ma większą prędkość) niż wiatr rzeczywisty wiejący w tym samym czasie.\nKierunek – wiatr pozorny jest również „ostrzejszy” (wieje bardziej od dziobu) niż rzeczywisty."
+  },
+  "753": {
+    "correct": "c",
+    "explanation": "Poprawna odpowiedź to C: najmniejszą.\nW kursie fordewind (z wiatrem prosto w rufę) jacht porusza się w tym samym kierunku co wiatr rzeczywisty. Prędkość wiatru pozornego jest różnicą między prędkością wiatru rzeczywistego a prędkością własną jachtu (\n\n\n).\nNajmniejsza wartość (C): Ponieważ jacht „ucieka” przed wiatrem, odczuwany na pokładzie powiew jest znacznie słabszy niż ten, który czulibyśmy stojąc w miejscu. \nSzekla\nSzekla\n +1\nWartość „zero”: W teorii, gdyby jacht płynął z prędkością równą prędkości wiatru, wiatr pozorny wyniósłby zero (na pokładzie panowałaby cisza).\nKursy ostre: Dla porównania, w bajdewindzie wiatr pozorny ma wartość największą, ponieważ prędkości sumują się."
+  },
+  "754": {
+    "correct": "c",
+    "explanation": "Ustawienie żagli „na motyla” polega na wystawieniu foka na jedną burtę, a grota na drugą. Stosuje się je wyłącznie w kursach, gdzie wiatr wieje prosto lub niemal prosto w rufę:\n✅ Fordewind (C): To jedyny kurs, w którym to ustawienie jest stabilne i efektywne, ponieważ pozwala obu żaglom pracować pełną powierzchnią (grot nie zasłania foka).\n❌ Bajdewind (A): W kursach ostrych oba żagle muszą znajdować się na tej samej (zawietrznej) burcie, aby wytworzyć siłę ciągu.\n❌ Dowolny kurs (B): W półwietrze czy baksztagu żagiel wystawiony na burtę nawietrzną natychmiast by załopotał lub został przerzucony przez wiatr na drugą stronę."
+  },
+  "755": {
+    "correct": "c",
+    "explanation": "Poprawna odpowiedź to C: bajdewind.\nOto ranking wymienionych kursów od najostrzejszego (najbliższego linii wiatru) do najpełniejszego (z wiatrem):\n✅ Bajdewind (C): To najostrzejszy kurs, w którym jacht płynie pod kątem około \n do kierunku wiatru. Wymaga on mocnego wybrania żagli i opuszczenia miecza. \nDecathlon\nDecathlon\n +1\nBaksztag (B): Kurs pełny, w którym wiatr wieje ukośnie od rufy. Jest to kurs znacznie „pełniejszy” niż bajdewind. \nFordewind (A): Kurs najpełniejszy – wiatr wieje prosto w rufę jachtu."
+  },
+  "756": {
+    "correct": "b",
+    "explanation": "Poprawna odpowiedź to B: siły aerodynamicznej.\nSiła aerodynamiczna powstaje na żaglach pod wpływem wiatru. Rozkłada się ona na dwie główne składowe:\nSiłę ciągu, która pcha jacht do przodu.\nSiłę przechylającą, która działa prostopadle do osi jachtu, powodując jego przechylanie się na burtę oraz dryfowanie"
+  },
+  "757": {
+    "correct": "b",
+    "explanation": "Poprawna odpowiedź to B: siła oporu bocznego.\nOto krótki podział ról tych sił:\n✅ Siła oporu bocznego (B): Powstaje na podwodnych częściach jachtu (głównie na mieczu i płetwie sterowej). Działa prostopadle do osi jachtu, równoważąc parcie wiatru na żagle i minimalizując znoszenie jachtu w bok (dryf).\n❌ Siła hydrodynamiczna (A): To pojęcie ogólne obejmujące wszystkie siły działające na kadłub w wodzie (opór boczny, ale też opór czołowy/lepkości).\n❌ Siła ciągu (C): Odpowiada za ruch jachtu do przodu, a nie za przeciwdziałanie dryfowi."
+  },
+  "758": {
+    "correct": "a",
+    "explanation": "Poprawna odpowiedź to A: zwiększenie nawietrzności jachtu.\nOto dlaczego tak się dzieje:\nZasada działania: Fok to żagiel przedni. Jego parcie na wiatr generuje siłę przed masztami, która pcha dziób jachtu „od wiatru” (działa zawietrznie).\nEfekt zrzucenia: Gdy zrzucisz fok, pozostawiając tylko grot (żagiel główny), środek ożaglowania przesuwa się znacznie do tyłu, w stronę rufy.\nNawietrzność: Ponieważ teraz to żagiel na rufie dominuje, wiatr mocniej naciska na tylną część jachtu, co powoduje, że dziób samoczynnie „pcha się” na wiatr, czyli jacht staje się bardziej nawietrzny."
+  },
+  "759": {
+    "correct": "b",
+    "explanation": "Poprawna odpowiedź to B: półwiatr.\nOto krótka charakterystyka kursów względem kąta uderzenia wiatru:\n✅ Półwiatr (B): Wiatr wieje prosto w burtę (kąt 90° do osi jachtu). Jest to zazwyczaj najszybszy kurs dla większości jachtów turystycznych.\n❌ Bajdewind (A): Wiatr wieje „od skosu” z przodu (kąt ostry, mniej niż 90°).\n❌ Baksztag (C): Wiatr wieje „od skosu” z tyłu (kąt rozwarty, między 90° a 180°).\n"
+  },
+  "760": {
+    "correct": "c",
+    "explanation": "Poprawna odpowiedź to C: mniejszą niż wiatr rzeczywisty.\nW kursie fordewind jacht płynie w tym samym kierunku, w którym wieje wiatr rzeczywisty. Z perspektywy osoby na pokładzie, ruch jachtu „ucieka” przed podmuchami, co powoduje, że odczuwany wiatr pozorny jest słabszy."
+  },
   "785": {
     "correct": "a"
   },
