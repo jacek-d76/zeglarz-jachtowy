@@ -2228,6 +2228,56 @@
   "717": {
     "correct": "a"
   },
+  "718": {
+    "correct": "b"
+  },
+  "719": {
+    "correct": "b",
+    "explanation": "✅ Opcja B (prawym lub lewym halsem): Choć w fordewindzie wiatr wieje prosto w rufę, żagle zawsze muszą znajdować się na którejś z burt (chyba że jacht płynie „na motyla”). Zgodnie z przepisami, hals jachtu określa się na podstawie strony, po której znajduje się żagiel główny (grot). Nawet w kursie pełnym, jakim jest fordewind, jacht płynie konkretnym halsem zależnie od tego, czy grot jest na lewej, czy na prawej burcie.\n❌ Opcja A (tylko prawym halsem): Jacht może płynąć z wiatrem z dowolnym ustawieniem żagli względem burt.\n❌ Opcja C (na motyla, bez możliwości określenia halsu): Ustawienie „na motyla” (fok na jednej burcie, grot na drugiej) to popularny sposób żeglowania w fordewindzie, ale nie oznacza braku halsu. W takiej sytuacji o halsie jachtu decyduje wyłącznie położenie grota (żagla głównego). Jeśli grot jest na lewej burcie, płyniemy prawym halsem – i odwrotnie."
+  },
+  "720": {
+    "correct": "c"
+  },
+  "721": {
+    "correct": "b",
+    "explanation": "Dzieje się tak dzięki tzw. efektowi dyszy (lub szczeliny). Powietrze przepływające między żaglem przednim (np. fokiem) a grotem zostaje przyspieszone. To przyspieszenie strug powietrza po zawietrznej stronie grota zwiększa różnicę ciśnień, co generuje większą siłę nośną i w efekcie większą siłę ciągu całego zestawu żagli."
+  },
+  "722": {
+    "correct": "a",
+    "explanation": "✅ Opcja A (siła ciągu): Jest to składowa całkowitej siły aerodynamicznej, która działa równolegle do osi jachtu i jest skierowana do przodu. To właśnie ona pokonuje opory wody i pozwala jachtowi płynąć. \nRepozytorium Uniwersytetu Jagiellońskiego(RUJ)\nRepozytorium Uniwersytetu Jagiellońskiego(RUJ)\n +1\n❌ Opcja B (siła przechylająca): To druga składowa siły aerodynamicznej, działająca prostopadle do osi jachtu. Powoduje ona niepożądany przechył oraz dryf (spychanie jachtu w bok), a nie ruch do przodu. \nYouTube\nYouTube\n +1\n❌ Opcja C (siła hydrodynamiczna): Powstaje na podwodnej części jachtu (kadłubie, mieczu, sterze) w wyniku ruchu w wodzie. Działa ona przeciwstawnie do sił aerodynamicznych, stawiając opór i przeciwdziałając dryfowi. "
+  },
+  "723": {
+    "correct": "c",
+    "explanation": "Poprawna odpowiedź to C: w fordewindzie.\nW kursie fordewind wiatr wieje prosto w rufę, a żagle są ustawione prostopadle do osi jachtu. Siła aerodynamiczna działa wtedy niemal wyłącznie wzdłuż osi podłużnej kadłuba, zamieniając się w siłę ciągu. Brak składowej bocznej sprawia, że jacht nie ma tendencji do przechyłu na burtę"
+  },
+  "724": {
+    "correct": "a",
+    "explanation": "Ostrzenie to zmiana kursu w stronę wiatru (z kursów pełnych, jak fordewind czy baksztag, w stronę bajdewindu). W miarę jak jacht płynie coraz „ciaśniej” do wiatru:\nKąt natarcia wiatru na żagle się zmienia.\nSkładowa siły aerodynamicznej działająca prostopadle do osi jachtu staje się dominująca.\nEfektem jest zwiększenie momentu przechylającego oraz dryfu bocznego.\n"
+  },
+  "725": {
+    "correct": "b",
+    "explanation": "Odpadanie to zmiana kursu od wiatru (w stronę baksztagu i fordewindu). Przy prawidłowym luzowaniu żagli podczas tego manewru:\nWiększa część siły aerodynamicznej zostaje skierowana wzdłuż osi jachtu jako siła ciągu.\nZmniejsza się składowa poprzeczna, która odpowiada za przechył i dryf.\nW kursach pełnych wiatr naciska na żagle bardziej od tyłu niż z boku, co stabilizuje jednostkę w pionie."
+  },
+  "726": {
+    "correct": "a",
+    "explanation": "Poprawna odpowiedź to A: balastować jacht przez załogę lub zmniejszyć powierzchnię żagli.\nOto dlaczego to najskuteczniejsze metody:\nBalastowanie: Przesunięcie masy załogi na burtę nawietrzną tworzy moment prostujący, który przeciwdziała sile przechylającej.\nZmniejszenie powierzchni żagli (refowanie): Mniejszy żagiel to mniejsza siła aerodynamiczna działająca na jacht, co bezpośrednio redukuje przechył.\nWybieranie żagli (Opcja B/C): To błąd – mocniejsze wybranie żagli w kursach ostrych zazwyczaj zwiększa przechył, zamiast go redukować.\nOstrzenie: Choć nie ma go wprost w tej odpowiedzi, gwałtowne wyostrzenie („wysegmentowanie” wiatru z żagli) również pomaga, ale zmiana kursu na jeszcze ostrzejszy przy pełnych żaglach docelowo zwiększa siłę przechylającą."
+  },
+  "727": {
+    "correct": "c",
+    "explanation": "Poprawna odpowiedź to C: jacht mieczowy z podniesionym mieczem.\nDzieje się tak z dwóch kluczowych powodów:\nBrak balastu: W jachtach mieczowych (w przeciwieństwie do balastowych) miecz zazwyczaj pełni rolę oporu bocznego, a nie ciężkiego balastu. Podniesienie go przesuwa środek ciężkości jachtu wyżej, co zmniejsza jego stabilność.\nDryf zamiast przechyłu: Choć całkowite podniesienie miecza sprawia, że jacht łatwiej \"ślizga się\" bokiem po wodzie (dryfuje), to w przypadku uderzenia silnego szkwału jacht staje się nieprzewidywalny i traci moment prostujący, który zapewnia zanurzona powierzchnia miecza działająca jak dźwignia pod wodą.\nOpcja A jest błędna, ponieważ jachty balastowe (kilowe) są niemal niewywrotne dzięki ciężkiemu balastowi na dnie. Opcja B jest błędna, bo opuszczony miecz poprawia stateczność poprzeczną i pozwala skuteczniej kontrować przechył."
+  },
+  "728": {
+    "correct": "c",
+    "explanation": "Poprawna odpowiedź to C: zwrot przez sztag, zwrot przez rufę.\nWykonując pełną cyrkulację (360°) w prawo z bajdewindu prawego halsu, jacht najpierw musi wyostrzyć do linii wiatru, co skutkuje zwrotem przez sztag (przejście na lewy hals). Kontynuując cyrkulację w prawo, jacht odpada aż do fordewindu, gdzie następuje zwrot przez rufę (powrót na prawy hals), by domknąć koło do początkowego bajdewindu."
+  },
+  "729": {
+    "correct": "b",
+    "explanation": "Poprawna odpowiedź to B: zwrot przez rufę, zwrot przez sztag.\nWykonując pełną cyrkulację (360°) w prawo z kursu bajdewind lewego halsu, jacht oddala się od linii wiatru (odpada):\nNajpierw jacht odpada przez baksztag aż do fordewindu. Kontynuując skręt w prawo, przechodzi linię wiatru rufą, co oznacza wykonanie zwrotu przez rufę.\nPo zwrocie jacht znajduje się na prawym halsie i zaczyna ostrzyć. Przechodzi przez baksztag i półwiatr, aż do linii wiatru dzibem. Przejście linii wiatru dziobem to zwrot przez sztag.\nPo zakończeniu drugiego zwrotu jacht wraca do początkowego kursu (bajdewind lewego halsu)."
+  },
+  "730": {
+    "explanation": "Poprawna odpowiedź to A: podnieść płetwę mieczową.\nOto dlaczego to działa:\n✅ Opcja A (podnieść miecz): W kursach pełnych (takich jak baksztag) jacht ma mniejszą tendencję do dryfu bocznego niż w bajdewindzie. Podniesienie miecza (częściowe lub całkowite) znacznie zmniejsza opór hydrodynamiczny kadłuba, co pozwala jachtowi płynąć szybciej.\n❌ Opcja B (podnieść ster): Płetwa sterowa jest niezbędna do utrzymania kursu. Jej podniesienie uniemożliwiłoby precyzyjne sterowanie i byłoby niebezpieczne.\n❌ Opcja C (przegłębić dziób): Obciążenie dziobu zazwyczaj zwiększa opory wody i pogarsza sterowność (jacht staje się „nawietrzny” lub ryje w falę), co spowalnia jednostkę.",
+    "correct": "a"
+  },
   "785": {
     "correct": "a"
   },
