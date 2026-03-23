@@ -2398,6 +2398,10 @@
     "correct": "c",
     "explanation": "Poprawna odpowiedź to C: mniejszą niż wiatr rzeczywisty.\nW kursie fordewind jacht płynie w tym samym kierunku, w którym wieje wiatr rzeczywisty. Z perspektywy osoby na pokładzie, ruch jachtu „ucieka” przed podmuchami, co powoduje, że odczuwany wiatr pozorny jest słabszy."
   },
+  "761": {
+    "correct": "b",
+    "explanation": "Poprawną odpowiedzią na pytanie jest B: siła aerodynamiczna.\nSiła ta powstaje w wyniku przepływu strug powietrza wokół żagla. Kiedy wiatr opływa wypukły profil żagla, dochodzi do różnicy ciśnień po obu jego stronach, co generuje wypadkową siłę aerodynamiczną."
+  },
   "785": {
     "correct": "a"
   },
